@@ -6539,3 +6539,16 @@ list-style-image: url("/assets/images/lbv-icon.png");
     text-transform: uppercase;
     border-bottom: 2px solid #f6a800;
 }
+
+.dk-gallery-video {
+	position: relative;
+}
+
+.btn-center {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}

@@ -64,9 +64,6 @@
 
 <body>
     <div class="dk-main">
-        
-            
-
 
         <!--
             START: Navbar
@@ -124,11 +121,6 @@
        
         <!-- END: Navbar -->
 
-        
-
-        
-
-        
 
     <div class="dk-box-4">
         <div class="bg-image bg-image-parallax">
@@ -145,7 +137,7 @@
             </div>
         </div>
     </div>
-
+h1
     <div class="dk-box-2">
         <div class="container mnb-8">
             <div class="row justify-content-between vertical-gap mnt-35">
@@ -170,43 +162,24 @@
     <div class="dk-box-2 dk-padding-bot">
         <div class="container">
             <div class="row vertical-gap dk-gallery">
-                <div class="col-12">
-                    <div class="dk-box-4">
-                        <div class="bg-image">
-                           <img src="assets/images/Sizzle-for-Folio.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-12">
-                    <div class="dk-box-4">
-                        <div class="bg-image">
-                            <img src="assets/images/work-14.png" alt="">
-                        </div>
-                        <div class="dk-gallery-video text-center">
-                            <a href="https://www.youtube.com/watch?v=JVXjDaUnPbw" class="dk-btn dk-btn-play mt-20 dk-gallery-video-item"></a>
-                        </div>
-                    </div>
-                </div>
             
-                <div class="col-12">
-                    <div class="dk-box-4">
-                        <div class="bg-image">
-                            <img src="assets/images/Sizzle-for-Folio.png" alt="">
-                        </div>
-                        <div class="dk-gallery-video text-center">
-                            <div class="dk-gallery-video text-center">
-                                <a href="assets/images/Sizzle Background 1.mp4" class="dk-btn dk-btn-play mt-20 dk-gallery-video-item"></a>
-                            </div>
-                            <!--
-                            <video controls class="dk-gallery-video text-center">
-                                <source src="assets/images/Sizzle Background 1.mp4"
-                                        type="video/mp4"/>
-                            </video>
-                            -->
-                        </div>
-                    </div>
-                </div>
+				<div class="col-12">
+					<!-- Hidden video div -->
+					<div style="display:none;" id="video1">
+						<video class="lg-video-object lg-html5" controls preload="none">
+							<source src="./assets/video/sizzle2.mp4" type="video/mp4">
+							 Your browser does not support HTML5 video.
+						</video>
+					</div>
+					<!-- data-src should not be provided when you use html5 videos -->
+					<div id="html5-videos">
+					  <div data-poster="video-poster1.jpg" data-sub-html="Disney Kitchen" data-html="#video1" class="dk-gallery-video text-center">
+						  <img src="assets/images/Sizzle-for-Folio.png" />
+                          <a class="dk-btn dk-btn-play btn-center"></a>
+					  </div>
+					</div>	
+				</div>
+
 
                 <div class="col-sm-6">
                     <a href="assets/images/Disney-Kitchen-Folio5.png" class="dk-gallery-item"><img src="assets/images/Disney-Kitchen-Folio5.png" alt=""></a>
@@ -301,7 +274,14 @@
 <script src="assets/js/mimilism-init.js"></script>
 <!-- END: Scripts -->
 
+<script>
+	$('#html5-videos').lightGallery();
+</script>
 
+<script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.26.3'><\/script>".replace("HOST", location.hostname));
+//]]>
+</script>
     
 </body>
 </html>

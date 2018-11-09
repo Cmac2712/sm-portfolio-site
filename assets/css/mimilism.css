@@ -6552,3 +6552,12 @@ list-style-image: url("/assets/images/lbv-icon.png");
 	right: 0;
 	margin: auto;
 }
+
+.link-aboutme {
+    color: #131313;
+}
+
+.link-aboutme:hover, .link-aboutme:focus {
+    color: #f6a800;
+    text-decoration: none;
+}

@@ -6561,3 +6561,7 @@ list-style-image: url("/assets/images/lbv-icon.png");
     color: #f6a800;
     text-decoration: none;
 }
+
+.circular-image {
+  border-radius:  50%;
+}

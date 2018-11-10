@@ -6544,6 +6544,10 @@ list-style-image: url("/assets/images/lbv-icon.png");
 	position: relative;
 }
 
+.dk-gallery-video img {
+	max-width: 100%;
+}
+
 .btn-center {
 	position: absolute;
 	top: 0;

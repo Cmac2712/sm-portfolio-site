@@ -24,13 +24,13 @@
                 </li>
                 <!-- LINK TWO -->
                 <li class="dk-drop-item">
-                    <a href="about-me.html">
+                    <a href="about-me">
                         About Me
                     </a>
                 </li>
                 <!-- LINK THREE -->
                 <li class="dk-drop-item">
-                    <a href="contact.html">
+                    <a href="contact">
                         Contact
                     </a>
                 </li>  

@@ -7,19 +7,9 @@
 </head>
 <body>
 <div class="container">
-	<nav>
-		<ul>
-			<li>
-				<a href="/">Home</a>
-			</li>
-			<li>
-				<a href="about.html">About</a>
-			</li>
-			<li>
-				<a href="portfolio.html">Portfolio</a>
-			</li>
-		</ul>
-	</nav>
+
+	<?php include_once('./inc/nav.php'); ?>         
+
 	<h1>Portfolio</h1>
 	<p>Some of my recent work</p>
 </div>

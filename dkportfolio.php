@@ -7,16 +7,8 @@
 </head>
 <body>
 <div class="container">
-	<nav>
-		<ul>
-			<li>
-				<a href="/">Work</a>
-			</li>
-			<li>
-				<a href="about.html">About</a>
-			</li>
-		</ul>
-	</nav>
+
+	<?php include_once('./inc/nav.php'); ?>         
 
 	<h1 align="center">Disney Kitchen Toddler</h1>
 

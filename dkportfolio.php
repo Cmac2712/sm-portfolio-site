@@ -1,10 +1,5 @@
-<doctype html>
-<html>
-<head>
-	<title>Sam MacIntyre</title>
-	<meta name="description" content="Graphic Designer"/>
-	<link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+<?php include_once('./inc/head.php'); ?>         
+
 <body>
 <div class="container">
 

@@ -81,7 +81,7 @@
 							</p>
 							<p class="mb-6">When I'm not working you'll find me crafting, enjoying new foodie finds with my hubby or most-likely hanging upside down off some form of aerial apparatus!
 							</p>
-							<!--<a href="contact.html" class="link-decorated mt-10">get in touch</a>-->
+							<!--<a href="contact" class="link-decorated mt-10">get in touch</a>-->
 						</div>
 					</div>
 				</div>

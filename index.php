@@ -79,7 +79,7 @@
             <div class="col-lg-5">    
                 <p class="lead">I’m an ambitious, inquisitive problem solver and enjoy working across a variety of mediums.  With experience ranging from concept and brand development, through to packaging development and overall project management, I successfully drive projects from concept to completion whilst producing high quality, creative designs along the way.</p>
                 <p class="lead">I'm moving to Melbourne in January so I'm on the lookout for new opportunities there.  Please get in touch if you'd like to work with me!</p>
-                <a href="contact.html" class="link-decorated mt-1">Get in Touch</a>
+                <a href="contact" class="link-decorated mt-1">Get in Touch</a>
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@
                     
 
 
-<a href="disney-kitchen-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="disney-kitchen-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
@@ -120,7 +120,7 @@
                     
 
 
-<a href="hersheys-reeses-bakery-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="hersheys-reeses-bakery-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
@@ -147,7 +147,7 @@
                     
 
 
-<a href="reeses-rounds-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
@@ -174,7 +174,7 @@
                     
 
 
-<a href="stacy-hannah-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
@@ -201,7 +201,7 @@
                     
 
 
-<a href="a-love-story-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="a-love-story-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
@@ -228,7 +228,7 @@
                     
 
 
-<a href="chairmans-ruin-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="chairmans-ruin-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
@@ -255,7 +255,7 @@
                     
 
 
-<a href="character-license-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="character-license-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
@@ -282,7 +282,7 @@
                     
 
 
-<a href="brill-muffins-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="brill-muffins-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
@@ -309,7 +309,7 @@
                     
 
 
-<a href="SC-foundation-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+<a href="SC-foundation-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
@@ -534,7 +534,7 @@
                         <div class="col-lg-7">
                             <h2 class="mnt-8">Let’s work together</h2>
                             <p class="lead mb-2">Let us know what you're looking for in an agency. We'll take a look and see if this could be the start of something beautiful.</p>
-                            <a href="contact-2.html" class="dk-btn dk-btn-md mt-30">Contact Us</a>
+                            <a href="contact-2" class="dk-btn dk-btn-md mt-30">Contact Us</a>
                         </div>
                     </div>
                 </div>

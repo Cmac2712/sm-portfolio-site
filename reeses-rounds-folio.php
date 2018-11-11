@@ -124,14 +124,14 @@
 
     <div class="dk-pagination">
         <div class="container">
-            <a href="hersheys-reeses-bakery-folio.html" class="dk-pagination-prev justify-content-start"><span class="dk-pagination-icon"><span class="icon pe-7s-angle-left"></span></span>Previous Project</a>
+            <a href="hersheys-reeses-bakery-folio" class="dk-pagination-prev justify-content-start"><span class="dk-pagination-icon"><span class="icon pe-7s-angle-left"></span></span>Previous Project</a>
             <a href="/" class="dk-pagination-center">
                 <span class="dk-pagination-center justify-content-center">
                                     <span class="dk-icon-quote"></span>
                 </span>
 
             </a>
-            <a href="stacy-hannah-folio.html" class="dk-pagination-next justify-content-end">
+            <a href="stacy-hannah-folio" class="dk-pagination-next justify-content-end">
                 Next Project<span class="dk-pagination-icon"><span class="icon pe-7s-angle-right"></span></span>
             </a>
         </div>

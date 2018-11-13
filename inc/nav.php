@@ -23,19 +23,19 @@ $page_name = basename($_SERVER['PHP_SELF']);
                     
             <ul class="dk-nav dk-nav-align-right">
                 <!-- LINK ONE -->
-                <li class="dk-drop-item <?php if ($page_name === 'index') echo 'active'; ?>">
+                <li class="dk-drop-item <?php if ($page_name === 'index.php') echo 'active'; ?>">
                     <a href="/">
                         Work
                     </a>
                 </li>
                 <!-- LINK TWO -->
-				<li class="dk-drop-item <?php if ($page_name === 'about-me') echo 'active'; ?>">
+				<li class="dk-drop-item <?php if ($page_name === 'about-me.php') echo 'active'; ?>">
                     <a href="about-me">
                         About Me
                     </a>
                 </li>
                 <!-- LINK THREE -->
-                <li class="dk-drop-item <?php if ($page_name === 'contact') echo 'active'; ?>">
+                <li class="dk-drop-item <?php if ($page_name === 'contact.php') echo 'active'; ?>">
                     <a href="contact">
                         Contact
                     </a>

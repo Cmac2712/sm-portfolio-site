@@ -1,3 +1,9 @@
+<?php
+
+$page_name = basename($_SERVER['PHP_SELF']);
+
+?>
+
         <!--
             START: Navbar
 
@@ -17,19 +23,19 @@
                     
             <ul class="dk-nav dk-nav-align-right">
                 <!-- LINK ONE -->
-                <li class="dk-drop-item active">
+                <li class="dk-drop-item <?php if ($page_name === 'index') echo 'active'; ?>">
                     <a href="/">
                         Work
                     </a>
                 </li>
                 <!-- LINK TWO -->
-                <li class="dk-drop-item">
+				<li class="dk-drop-item <?php if ($page_name === 'about-me') echo 'active'; ?>">
                     <a href="about-me">
                         About Me
                     </a>
                 </li>
                 <!-- LINK THREE -->
-                <li class="dk-drop-item">
+                <li class="dk-drop-item <?php if ($page_name === 'contact') echo 'active'; ?>">
                     <a href="contact">
                         Contact
                     </a>

@@ -15,7 +15,7 @@
                 <h1 class="display-3 mnt-8">I’m a creative designer with a passion for brands and packaging.</h1>
             </div>
             <div class="col-lg-5">    
-                <p class="lead">I’m an ambitious, inquisitive problem solver and enjoy working across a variety of mediums.  With experience ranging from concept and brand development, through to packaging development and overall project management, I successfully drive projects from concept to completion whilst producing high quality, creative designs along the way.</p>
+                <p class="lead">I’m an ambitious, inquisitive problem solver and enjoy working across a variety of mediums.  With experience ranging from concept and brand development, through to packaging development and overall project management, I successfully drive projects from concept to completion whilst producing high quality, creative designs along the ways.</p>
                 <p class="lead">I'm moving to Melbourne in January so I'm on the lookout for new opportunities there.  Please get in touch if you'd like to work with me!</p>
                 <a href="contact" class="link-decorated mt-1">Get in Touch</a>
             </div>

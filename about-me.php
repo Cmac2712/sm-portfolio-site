@@ -31,6 +31,10 @@
 						<div class="col-md-8">
 							<ul class="dk-list lead">
 								<li><strong>Experience</strong><br>
+									<br><strong>&#183; &nbsp;<a href="https://moosetoys.com/au" class="link-aboutme">Moose Toys</a> - Graphic Designer (Temp)</strong>
+									<br>&nbsp; &nbsp;March 2019 - Present
+									<br><i>&nbsp; &nbsp;Brands worked with: Treasure X &amp; Little Live Pets</i>
+									<br>
 									<br><strong>&#183; &nbsp;<a href="http://www.lightbodyventures.com/" class="link-aboutme">Lightbody Ventures</a> - Graphic Designer</strong>
 									<br>&nbsp; &nbsp;March 2016 - Present
 									<br><i>&nbsp; &nbsp;Brands worked with include: Disney, Hershey's, Reese's & Thorntons</i>

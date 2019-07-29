@@ -1,7 +1,6 @@
 	<?php include_once('./inc/head.php'); ?>
 
 	<body>
-<span style="display: none;">test here</span>
 		<div class="dk-main">        
 
 		<?php include_once('./inc/nav.php'); ?>
@@ -33,11 +32,11 @@
 							<ul class="dk-list lead">
 								<li><strong>Experience</strong><br>
 									<br><strong>&#183; &nbsp;<a href="https://moosetoys.com/au" class="link-aboutme">Moose Toys</a> - Graphic Designer (Temp)</strong>
-									<br>&nbsp; &nbsp;March 2019 - Present
+									<br>&nbsp; &nbsp;March 2019 - 31st May 2019
 									<br><i>&nbsp; &nbsp;Brands worked with: Treasure X &amp; Little Live Pets</i>
 									<br>
 									<br><strong>&#183; &nbsp;<a href="http://www.lightbodyventures.com/" class="link-aboutme">Lightbody Ventures</a> - Graphic Designer</strong>
-									<br>&nbsp; &nbsp;March 2016 - Present
+									<br>&nbsp; &nbsp;March 2016 - December 2018
 									<br><i>&nbsp; &nbsp;Brands worked with include: Disney, Hershey's, Reese's & Thorntons</i>
 									<br>
 									<br><strong>&#183; &nbsp;<a href="https://www.beamsuntory.com/home" class="link-aboutme">Beam Suntory</a> - Packaging Technologist</strong>

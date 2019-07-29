@@ -1,6 +1,7 @@
 	<?php include_once('./inc/head.php'); ?>
 
 	<body>
+<span style="display: none;">test here</span>
 		<div class="dk-main">        
 
 		<?php include_once('./inc/nav.php'); ?>

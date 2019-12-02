@@ -2,23 +2,25 @@
 
 <body>
     <div class="dk-main">
-        
+
 	<?php include_once('./inc/nav.php'); ?>         
 
     <div class="dk-box-4">
         <div class="bg-image bg-image-parallax">
-            <img src="assets/images/Hersheys-Reeses-Bakery-Folio1.png" class="jarallax-img" alt="">
+            <img src="assets/images/eat-me-folio-1.png" class="jarallax-img" alt="">
             <div style="background-color: rgba(32, 32, 32, .6);"></div>
         </div>
 
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-white">Hershey's & Reese's Bakery</h1>
-                    <p class="lead text-white mb-0">I managed the design of all packaging, POS and other sales support material for the Hershey's & Reese's US bakery range.  I also managed all approvals with the Hershey Company.</p>
+                    <h1 class="display-3 text-white">Eat Me</h1>
+										<p class="lead text-white mb-0">
+											An everyday treat without the guilt!  Fictional concept packaging design for low calorie biscuits, looking to bring the 'Halo Top effect' to the biscuit category.
+										</p>
                 </div>
             </div>
-        </div>
+       </div>
     </div>
 
     <div class="dk-box-2">
@@ -26,50 +28,59 @@
             <div class="row justify-content-between vertical-gap mnt-35">
                 <div class="col-12 col-lg-3">
                     <ul class="dk-list">
-                        <li><strong>Client</strong><br>The Hershey Company / Lightbody Ventures</li>
-                        <li><strong>Date</strong><br>March 2016 - Present</li>
-                        <li><strong>Key Responsibilities</strong><br>Concept Visualisation<br>Packaging Design<br>POS Design<br>Sales Support Material<br>Licensor Approvals</li>
+                        <li><strong>Client</strong><br>Personal Project</li>
+                        <li><strong>Date</strong><br>December 2019</li>
+                        <li><strong>Key Responsibilities</strong><br>Identity<br>Concept Visualisation<br>Packaging Design</li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">Lightbody Ventures hold The Hershey Company license for bakery in North America.  The range covers a variety of products including muffins, dessert cakes and cookies.</p><p class="mb-0">My responsibilities included visualisation of new product concepts, designing all product labelling to brand guidelines and creating sales support material.</p>
-                </div>
+										<p class="pb-20 mb-0">“Eat Me” is inspired by times when you open a packet of biscuits and somehow ten seconds later they’re all gone. Then along with that happy snacking feeling, comes the guilt of consuming a days worth of calories in less than 10 minutes.
+										<p class="pb-20 mb-0">
+										But what if it didn’t have to be that way? Bringing the “Halo Top effect” to the biscuit aisle, Eat Me want you to treat yourself. With delicious flavours, bright &amp; bold packaging, messages of encouragement stamped into the biscuits themselves, and at only 280 calories a box, these biscuits are just begging you to eat them.</p>
+
+										<p class="mb-0">Eat Me are an everyday treat, just for you.  Grab a cup of tea, stick the telly on and indulge guilt free!</p>
+                </div >
                 <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">I also managed all packaging approvals for these products which involves working with colleagues in the UK and USA to produce final artwork and manage expectations and any complications with The Hershey Company.</p>
+										<p class="pb-20 mb-0">
+										The aim of Eat Me is to appeal to people (predominantly females) who are looking for a low calorie, everyday treat.  With this in mind I wanted the logotype to be fun and flirty and the bold and curvaceous display type “Primot” fit the bill perfectly.</p>
+										<p class="mb-0">One of the USP’s of this product is the encouraging messages stamped into the biscuit. To best showcase this (and the filling) I used larger than life product imagery on pack. Finally, using a candy/ice cream inspired colour palette reinforces the idea of “treat yourself” and increases shelf stand-out.
+										</p>
                 </div>
             </div>
         </div>
     </div>
 
+    
     <div class="dk-box-2 dk-padding-bot">
         <div class="container">
             <div class="row vertical-gap dk-gallery">
                 <div class="col-sm-6">
-                    <a href="assets/images/Hersheys-Reeses-Bakery-Folio2.png" class="dk-gallery-item"><img src="assets/images/Hersheys-Reeses-Bakery-Folio2.png" alt=""></a>
+                    <a href="assets/images/eat-me-folio-2.png" class="dk-gallery-item"><img src="assets/images/eat-me-folio-2.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Hersheys-Reeses-Bakery-Folio3.png" class="dk-gallery-item"><img src="assets/images/Hersheys-Reeses-Bakery-Folio3.png" alt=""></a>
+                    <a href="assets/images/eat-me-folio-3.png" class="dk-gallery-item"><img src="assets/images/eat-me-folio-3.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Hersheys-Reeses-Bakery-Folio4.png" class="dk-gallery-item"><img src="assets/images/Hersheys-Reeses-Bakery-Folio4.png" alt=""></a>
+                    <a href="assets/images/eat-me-folio-4.png" class="dk-gallery-item"><img src="assets/images/eat-me-folio-4.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Hersheys-Reeses-Bakery-Folio5.png" class="dk-gallery-item"><img src="assets/images/Hersheys-Reeses-Bakery-Folio5.png" alt=""></a>
+                    <a href="assets/images/eat-me-folio-5.png" class="dk-gallery-item"><img src="assets/images/eat-me-folio-5.png" alt=""></a>
                 </div>
             </div>
         </div>
     </div>
 
+
     <div class="dk-pagination">
         <div class="container">
-            <a href="disney-kitchen-folio" class="dk-pagination-prev justify-content-start"><span class="dk-pagination-icon"><span class="icon pe-7s-angle-left"></span></span>Previous Project</a>
+            <a href="SC-foundation-folio" class="dk-pagination-prev justify-content-start"><span class="dk-pagination-icon"><span class="icon pe-7s-angle-left"></span></span>Previous Project</a>
             <a href="/" class="dk-pagination-center">
                 <span class="dk-pagination-center justify-content-center">
                                     <span class="dk-icon-quote"></span>
                 </span>
 
             </a>
-            <a href="reeses-rounds-folio" class="dk-pagination-next justify-content-end">
+            <a href="hersheys-reeses-bakery-folio" class="dk-pagination-next justify-content-end">
                 Next Project<span class="dk-pagination-icon"><span class="icon pe-7s-angle-right"></span></span>
             </a>
         </div>
@@ -136,7 +147,9 @@
 <script src="assets/js/mimilism-init.js"></script>
 <!-- END: Scripts -->
 
+<script>
+	$('#html5-videos').lightGallery();
+</script>
 
-    
 </body>
 </html>

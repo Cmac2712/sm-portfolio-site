@@ -85,7 +85,6 @@
                 <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
                     
 
-
 <a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
     <span class="dk-portfolio-item-image">
         
@@ -105,33 +104,29 @@
     </span>
     
 </a>
-
-
-
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item photography">
-                    
 
-
-<a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Stacy-Hannah-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
-        
-        <!--<span class="dk-portfolio-item-category">
-            <span>Branding</span>
-        </span>-->
-        
-    </span>
-    
-</a>
+                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
+								<!-- TWO -->
+							<a href="eat-me-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+											<span class="dk-portfolio-item-image">
+													
+													<span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+													
+													<span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+													<img src="assets/images/eat-me-folio-3.png" alt="">
+											</span>
+											
+											<span class="dk-portfolio-item-info">
+													<span class="h3 dk-portfolio-item-title">Eat Me</span>
+													
+													<!--<span class="dk-portfolio-item-category">
+															<span>Packaging</span>
+													</span>-->
+													
+											</span>
+											
+									</a>
 
 
 
@@ -191,31 +186,26 @@
 
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item photography">
-                    
-
-
-<a href="character-license-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Character-License-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">Character License</span>
-        
-        <!--<span class="dk-portfolio-item-category">
-            <span>Design</span>
-        </span>-->
-        
-    </span>
-    
-</a>
-
-
-
+                <!-- FIVE -->
+									<a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+											<span class="dk-portfolio-item-image">
+													
+													<span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+													
+													<span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+													<img src="assets/images/Stacy-Hannah-Home.png" alt="">
+											</span>
+											
+											<span class="dk-portfolio-item-info">
+													<span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
+													
+													<!--<span class="dk-portfolio-item-category">
+															<span>Branding</span>
+													</span>-->
+													
+											</span>
+											
+									</a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
                     
@@ -245,31 +235,25 @@
 
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
-                    
-
-
-<a href="SC-foundation-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/SCF-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">The Sporting Chance Foundation</span>
-        
-        <!--<span class="dk-portfolio-item-category">
-            <span>Branding</span>
-        </span>-->
-        
-    </span>
-    
-</a>
-
-
-
+                <!-- NINE -->
+								<a href="character-license-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+										<span class="dk-portfolio-item-image">
+												
+												<span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+												
+												<span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+												<img src="assets/images/Character-License-Home.png" alt="">
+										</span>
+										
+										<span class="dk-portfolio-item-info">
+												<span class="h3 dk-portfolio-item-title">Character License</span>
+												
+												<!--<span class="dk-portfolio-item-category">
+														<span>Design</span>
+												</span>-->
+												
+										</span>
+								</a>
                 </div>
             </div>
             <div class="dk-gap-1"></div>

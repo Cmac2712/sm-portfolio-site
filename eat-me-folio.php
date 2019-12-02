@@ -80,7 +80,7 @@
                 </span>
 
             </a>
-            <a href="hersheys-reeses-bakery-folio" class="dk-pagination-next justify-content-end">
+            <a href="reeses-rounds-folio" class="dk-pagination-next justify-content-end">
                 Next Project<span class="dk-pagination-icon"><span class="icon pe-7s-angle-right"></span></span>
             </a>
         </div>

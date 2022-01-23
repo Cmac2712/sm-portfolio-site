@@ -1,127 +1,9 @@
-<!DOCTYPE html>
-<!--
-	Name: Mimilism - Minimal and Modern Portfolio HTML Template
-	Version: 1.0.0
-	Author: dexad
-	Website: https://dkcoder.info/
-	Purchase: https://themeforest.net/user/unvab/portfolio
-	Support: https://dkcoder.info/
-	License: You must have a valid license purchased only from ThemeForest (the above link) in order to legally use the theme for your project.
-	Copyright 2018.
--->
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-		<title>Sam MacIntyre | Creative Designer</title>
-
-		<meta name="description" content="Sam MacIntyre - Design Portfolio">
-		<meta name="keywords" content="graphic design, design, portfolio, creative, designer">
-		<meta name="author" content="DKcoder">
-
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
-
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<!-- START: Styles -->
-
-		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Nunito:400,700%7cPlayball%7cPT+Serif:700i" rel="stylesheet"><!-- %7c -->
-
-		<!-- Bootstrap -->
-		<link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
-
-		<!-- Font Awesome -->
-		<link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/brands.css">
-		<link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/solid.css">
-		<link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/fontawesome.css">
-
-		<!-- Pe icon 7 stroke -->
-		<link rel="stylesheet" href="assets/vendor/pixeden-stroke-7-icon/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
-
-		<!-- Lightgallery -->
-		<link rel="stylesheet" type="text/css" href="assets/vendor/lightgallery/dist/css/lightgallery.min.css">
-
-		<!-- Swiper -->
-		<link rel="stylesheet" type="text/css" href="assets/vendor/swiper/dist/css/swiper.min.css">
-
-		<!-- Mimilism -->
-		<link rel="stylesheet" href="assets/css/mimilism.css">
-
-		<!-- Custom Styles -->
-		<link rel="stylesheet" href="assets/css/custom.css">
-
-		<!-- END: Styles -->
-
-		<!-- jQuery -->
-		<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-
-
-	</head>
-
+	<?php include_once('./inc/head.php'); ?>
 
 	<body>
 		<div class="dk-main">        
 
-
-			<!--
-	   START: Navbar
-
-	   Additional Classes:
-	   .dk-navbar-sticky
-	   .dk-navbar-transparent
-	   .dk-navbar-white
-	   .dk-navbar-fullscreen || .dk-navbar-(xl, lg, md, sm)-fullscreen
-			-->
-			<nav class="dk-navbar dk-navbar-sticky dk-navbar-lg-fullscreen">
-				<div class="container">
-					<div class="dk-nav-content">
-
-						<a href="home-1.html" class="dk-nav-logo">SAM&nbsp;MACINTYRE</a>
-
-
-
-						<ul class="dk-nav dk-nav-align-right">
-							<!-- LINK ONE -->
-							<li class="dk-drop-item">
-								<a href="home-1.html">
-									Work
-								</a>
-							</li>
-							<!-- LINK TWO -->
-							<li class="dk-drop-item active">
-								<a href="about-me.html">
-									About Me
-								</a>
-							</li>
-							<!-- LINK THREE -->
-							<li class="dk-drop-item">
-								<a href="contact.html">
-									Contact
-								</a>
-							</li>  
-							<!-- LINK FOUR -->
-							<li class="dk-drop-item">
-								<a href="https://www.linkedin.com/in/samcoton/">
-									<span class="fab fa-linkedin"></span>
-								</a>
-							</li>
-							<!-- LINK FIVE -->
-							<li class="dk-drop-item">
-								<a href="https://www.instagram.com/smac_design/">
-									<span class="fab fa-instagram"></span>
-								</a>
-							</li>
-						</ul>
-
-					</div>
-				</div>
-			</nav>
-
-			<!-- END: Navbar -->
-
+		<?php include_once('./inc/nav.php'); ?>
 
 			<div class="dk-box-1 mnt-20 pb-45">
 				<div class="container">
@@ -137,7 +19,7 @@
 							</p>
 							<p class="mb-6">When I'm not working you'll find me crafting, enjoying new foodie finds with my hubby or most-likely hanging upside down off some form of aerial apparatus!
 							</p>
-							<!--<a href="contact.html" class="link-decorated mt-10">get in touch</a>-->
+							<!--<a href="contact" class="link-decorated mt-10">get in touch</a>-->
 						</div>
 					</div>
 				</div>
@@ -149,8 +31,12 @@
 						<div class="col-md-8">
 							<ul class="dk-list lead">
 								<li><strong>Experience</strong><br>
+									<br><strong>&#183; &nbsp;<a href="https://moosetoys.com/au" class="link-aboutme">Moose Toys</a> - Graphic Designer (Temp)</strong>
+									<br>&nbsp; &nbsp;4th March 2019 - 31st May 2019
+									<br><i>&nbsp; &nbsp;Brands worked with: Treasure X &amp; Little Live Pets</i>
+									<br>
 									<br><strong>&#183; &nbsp;<a href="http://www.lightbodyventures.com/" class="link-aboutme">Lightbody Ventures</a> - Graphic Designer</strong>
-									<br>&nbsp; &nbsp;March 2016 - Present
+									<br>&nbsp; &nbsp;March 2016 - December 2018
 									<br><i>&nbsp; &nbsp;Brands worked with include: Disney, Hershey's, Reese's & Thorntons</i>
 									<br>
 									<br><strong>&#183; &nbsp;<a href="https://www.beamsuntory.com/home" class="link-aboutme">Beam Suntory</a> - Packaging Technologist</strong>

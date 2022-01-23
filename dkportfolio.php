@@ -1,22 +1,9 @@
-<doctype html>
-<html>
-<head>
-	<title>Sam MacIntyre</title>
-	<meta name="description" content="Graphic Designer"/>
-	<link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+<?php include_once('./inc/head.php'); ?>         
+
 <body>
 <div class="container">
-	<nav>
-		<ul>
-			<li>
-				<a href="index.html">Work</a>
-			</li>
-			<li>
-				<a href="about.html">About</a>
-			</li>
-		</ul>
-	</nav>
+
+	<?php include_once('./inc/nav.php'); ?>         
 
 	<h1 align="center">Disney Kitchen Toddler</h1>
 

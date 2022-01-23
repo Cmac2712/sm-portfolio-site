@@ -147,22 +147,20 @@ body.dk-open-fullscreen {
 
 .link-decorated {
     display: inline-block;
-    font-size: .9rem;
-    font-weight: 700;
+    font-weight: 600;
     color: #131313;
     text-decoration: none;
-    text-transform: uppercase;
-    border-bottom: 2px solid #f6a800;
-    -webkit-transition: border-color .2s ease;
-    -o-transition: border-color .2s ease;
-    transition: border-color .2s ease;
 }
 
-.link-decorated:hover, .link-decorated:focus {
-    color: #131313;
-    text-decoration: none;
-    border-color: #131313;
+.link-decorated:before {
+    content: "→ ";
+    color: #f6a800;
 }
+
+
+.link-decorated:hover, .link-decorated:focus {
+    color: #f6a800;
+    text-decoration: none;}
 
 .link-decorated.link-decorated-white {
     color: #fff;
@@ -400,7 +398,7 @@ html {
 }
 
 body {
-    font-family: "Lato", sans-serif;
+    font-family: "Quicksand", sans-serif;
     line-height: 1.5;
     color: #5e5e5e;
     letter-spacing: .03em;
@@ -414,11 +412,11 @@ p {
 
 b,
 strong {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 label {
-    font-weight: 700;
+    font-weight: 300;
     color: #1c334d;
 }
 
@@ -436,8 +434,8 @@ h6,
 .h5,
 .h6 {
     margin-bottom: 1.5rem;
-    font-family: "Nunito", sans-serif;
-    font-weight: 700;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 300;
     color: #131313;
     text-transform: none;
     letter-spacing: normal;
@@ -477,7 +475,7 @@ h6,
 .display-2,
 .display-3,
 .display-4 {
-    font-weight: 700;
+    font-weight: 500;
     text-transform: none;
     letter-spacing: normal;
 }
@@ -2770,7 +2768,7 @@ h6,
             align-items: center;
     height: 100px;
     padding: 29px 35px;
-    font-family: "Nunito", sans-serif;
+    font-family: "Quicksand", sans-serif;
     background-color: #fff;
     -webkit-box-shadow: 0 1px 0 transparent;
             box-shadow: 0 1px 0 transparent;
@@ -2966,7 +2964,7 @@ h6,
 .dk-navbar .dk-nav-content .dk-nav a {
     padding: 10px 0;
     font-size: 1.0rem;
-    font-weight: 700;
+    font-weight: 600;
     color: #131313;
     text-transform: uppercase;
     letter-spacing: .02em;
@@ -2979,8 +2977,8 @@ h6,
 
 .dk-navbar .dk-nav-content .dk-nav-logo {
     min-width: auto;
-    font-family: "Nunito";
-    font-weight: 700;
+    font-family: "Quicksand";
+    font-weight: 600;
     font-size: 1.5rem;
     line-height: 1;
     color: #131313;

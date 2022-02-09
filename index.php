@@ -63,19 +63,17 @@
                             </div>
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockups">
 
-
-
-                                <a href="target-maxx-socks-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="target-thermals-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Hersheys-Reeses-Bakery-Home.png" alt="">
+                                        <img src="assets/images/Target-Thermals-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">MAXX Socks</span>
+                                        <span class="h3 dk-portfolio-item-title">Target Woman <br/>Thermals</span>
 
                                         <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
@@ -91,17 +89,17 @@
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
 
 
-                                <a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="target-beauty-main-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Reese's-Rounds-Home.png" alt="">
+                                        <img src="assets/images/Target-Beauty-Main-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Reese's Rounds</span>
+                                        <span class="h3 dk-portfolio-item-title">Target Beauty</span>
 
                                         <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
@@ -114,17 +112,24 @@
 
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
                                 <!-- TWO -->
-                                <a href="eat-me-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a
+                                    href="target-maxx-socks-folio" 
+                                    class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark"> 
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/eat-me-folio-3.png" alt="">
+                                        <img 
+                                            src="assets/images/MAXX-Socks-Home.png" 
+                                            alt=""
+                                        >
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Eat Me</span>
+                                        <span class="h3 dk-portfolio-item-title">
+                                            MAXX Socks
+                                        </span>
 
                                         <!--<span class="dk-portfolio-item-category">
 															<span>Packaging</span>
@@ -139,24 +144,19 @@
                             </div>
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
 
-
-
-                                <a href="a-love-story-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="hersheys-reeses-bakery-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/A-Love-Story-Home.png" alt="">
+                                        <img src="assets/images/Hersheys-Reeses-Bakery-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">A Love Story</span>
-
-                                        <!--<span class="dk-portfolio-item-category">
-            <span>Branding</span>
-        </span>-->
-
+                                        <span class="h3 dk-portfolio-item-title">
+                                            Hershey's & Reese's Bakery
+                                        </span>
                                     </span>
 
                                 </a>
@@ -168,22 +168,19 @@
 
 
 
-                                <a href="chairmans-ruin-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="disney-kitchen-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Chairmans-Ruin-Home.png" alt="">
+                                        <img src="assets/images/Disney-Kitchen-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">The Chairman's Ruin</span>
-
-                                        <!--<span class="dk-portfolio-item-category">
-            <span>Packaging</span>
-        </span>-->
-
+                                        <span class="h3 dk-portfolio-item-title">
+                                            Disney Kitchen
+                                        </span>
                                     </span>
 
                                 </a>
@@ -193,17 +190,17 @@
                             </div>
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item photography">
                                 <!-- FIVE -->
-                                <a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Stacy-Hannah-Home.png" alt="">
+                                        <img src="assets/images/Reese's-Rounds-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
+                                        <span class="h3 dk-portfolio-item-title">Reese's Rounds</span>
 
                                         <!--<span class="dk-portfolio-item-category">
 															<span>Branding</span>
@@ -217,24 +214,18 @@
 
 
 
-                                <a href="brill-muffins-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="eat-me-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Brill-Muffins-Pack-Home.png" alt="">
+                                        <img src="assets/images/eat-me-folio-3.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Brill Muffins Mailer</span>
-
-                                        <!--<span class="dk-portfolio-item-category">
-            <span>Graphic Design</span>
-        </span>-->
-
+                                        <span class="h3 dk-portfolio-item-title">Eat Me</span>
                                     </span>
-
                                 </a>
 
 
@@ -242,17 +233,17 @@
                             </div>
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
                                 <!-- NINE -->
-                                <a href="character-license-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Character-License-Home.png" alt="">
+                                        <img src="assets/images/Stacy-Hannah-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Character License</span>
+                                        <span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
 
                                         <!--<span class="dk-portfolio-item-category">
 														<span>Design</span>
@@ -537,9 +528,6 @@
                     <!-- END: Scripts -->
 
                     <script src="assets/js/sam.js"></script>
-
-
-
 
         </body>
 

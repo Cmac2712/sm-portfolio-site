@@ -1,4 +1,3 @@
-<<<<<<< HEAD:home-1.html
         <!DOCTYPE html>
         <!--
             Name: Mimilism - Minimal and Modern Portfolio HTML Template
@@ -10,403 +9,262 @@
             License: You must have a valid license purchased only from ThemeForest (the above link) in order to legally use the theme for your project.
             Copyright 2018.
         -->
-            
+
         <html lang="en">
-        <head>
-            <meta charset="utf-8">
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-            <title>Sam MacIntyre | Creative Designer</title>
 
-            <meta name="description" content="Sam MacIntyre - Design Portfolio">
-            <meta name="keywords" content="graphic design, design, portfolio, creative, designer">
-            <meta name="author" content="DKcoder">
-
-            <link rel="icon" type="image/png" href="assets/images/favicon.png">
-
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-
-            <!-- START: Styles -->
-
-            <!-- Google Fonts -->
-            <link rel="preconnect" href="https://fonts.googleapis.com">
-            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-            <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet"><!-- %7c -->
-
-            <!-- Bootstrap -->
-            <link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
-
-            <!-- Font Awesome -->
-            <link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/brands.css">
-            <link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/solid.css">
-            <link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/fontawesome.css">
-
-            <!-- Pe icon 7 stroke -->
-            <link rel="stylesheet" href="assets/vendor/pixeden-stroke-7-icon/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
-
-            <!-- Lightgallery -->
-            <link rel="stylesheet" type="text/css" href="assets/vendor/lightgallery/dist/css/lightgallery.min.css">
-
-            <!-- Swiper -->
-            <link rel="stylesheet" type="text/css" href="assets/vendor/swiper/dist/css/swiper.min.css">
-
-            <!-- Mimilism -->
-            <link rel="stylesheet" href="assets/css/mimilism.css">
-
-            <!-- Custom Styles -->
-            <link rel="stylesheet" href="assets/css/custom.css">
-            
-            <!-- END: Styles -->
-
-            <!-- jQuery -->
-            <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-            
-            
-        </head>
-
-=======
-		<?php include_once('./inc/head.php'); ?>         
->>>>>>> ed2a584d4935c86762f6be5ed0ed40340a242489:index.php
+        <?php include_once('./inc/head.php'); ?>
 
         <body>
-            <div class="dk-main">        
+            <div class="dk-main">
 
+                <?php include_once('./inc/nav.php'); ?>
 
-<<<<<<< HEAD:home-1.html
-        <!--
-            START: Navbar
-
-            Additional Classes:
-                .dk-navbar-sticky
-                .dk-navbar-transparent
-                .dk-navbar-white
-                .dk-navbar-fullscreen || .dk-navbar-(xl, lg, md, sm)-fullscreen
-        -->
-        <nav class="dk-navbar dk-navbar-sticky dk-navbar-lg-fullscreen">
-            <div class="container">
-                <div class="dk-nav-content">
-                    
-                    <a href="home-1.html" class="dk-nav-logo">Sam&nbsp;MacIntyre</a>
-                    
-                    
-                    
-            <ul class="dk-nav dk-nav-align-right">
-                <!-- LINK ONE -->
-                <li class="dk-drop-item active">
-                    <a href="home-1.html">
-                        Work
-                    </a>
-                </li>
-                <!-- LINK TWO -->
-                <li class="dk-drop-item">
-                    <a href="about-me.html">
-                        About Me
-                    </a>
-                </li>
-                <!-- LINK THREE -->
-                <li class="dk-drop-item">
-                    <a href="contact.html">
-                        Contact
-                    </a>
-                </li>  
-                <!-- LINK FOUR -->
-                <li class="dk-drop-item">
-                    <a href="https://www.linkedin.com/in/samcoton/">
-                        <span class="fab fa-linkedin"></span>
-                    </a>
-                </li>
-                 <!-- LINK FIVE -->
-                <li class="dk-drop-item">
-                    <a href="https://www.instagram.com/smac_design/">
-                        <span class="fab fa-instagram"></span>
-                    </a>
-                </li>
-            </ul>
-                    
+                <div class="dk-box-1 mnt-20">
+                    <div class="container">
+                        <div class="row justify-content-left text-left">
+                            <div class="col-lg-8">
+                                <h3>Hello, I'm Sam.</h3>
+                                <h3>A skilled, creative graphic designer who loves working with brands to design stand out packaging & engaging visual experiences.</h3>
+                                <a href="contact.html" class="link-decorated mt-1 fs-24">Let's work together!</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </nav>
-       
-        <!-- END: Navbar -->
 
-                
+                <div class="dk-box-2 dk-padding-bot">
+                    <div class="container">
+                        <div class="row align-items-start vertical-gap dk-isotope-grid">
 
-                
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
 
-                
+                                <a href="target-beauty-ausmade-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
 
-    <div class="dk-box-1 mnt-20">
-    <div class="container">
-        <div class="row justify-content-left text-left">
-            <div class="col-lg-8">
-                <h3>Hello, I'm Sam.</h3>
-                <h3>A skilled, creative graphic designer who loves working with brands to design stand out packaging & engaging visual experiences.</h3>
-                <a href="contact.html" class="link-decorated mt-1 fs-24">Let's work together!</a>
-=======
-		<?php include_once('./inc/nav.php'); ?>         
-					
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
-    <div class="dk-box-1 mnt-20">
-    <div class="container">
-        <div class="row justify-content-center text-center">
-            <div class="col-lg-5">
-<!-- test -->
-                <h1 class="display-3 mnt-8">Hello!</h1>
-                <h1 class="display-3 mnt-8">I’m a creative designer with a passion for brands and packaging.</h1>
-            </div>
-            <div class="col-lg-5">    
-                <p class="lead">I’m an ambitious, inquisitive problem solver and enjoy working across a variety of mediums.  With experience ranging from concept and brand development, through to packaging development and overall project management, I successfully drive projects from concept to completion whilst producing high quality, creative designs along the way.</p>
-				<p class="lead">I'm on the lookout for new opportunities in Melbourne. Please get in touch if you'd like to work with me!</p>
-                <a href="contact" class="link-decorated mt-1">Get in Touch</a>
->>>>>>> ed2a584d4935c86762f6be5ed0ed40340a242489:index.php
-            </div>
-        </div>
-    </div>
-</div>
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Target-Beauty-AusMade-Home.png" alt="">
+                                    </span>
 
-            <div class="dk-box-2 dk-padding-bot">
-        <div class="container">
-            <div class="row align-items-start vertical-gap dk-isotope-grid">
-                
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
-                    
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">Target Beauty<br>Australian Made</span>
 
-
-<<<<<<< HEAD:home-1.html
-<a href="target-beauty-ausmade-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-=======
-<a href="disney-kitchen-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
->>>>>>> ed2a584d4935c86762f6be5ed0ed40340a242489:index.php
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Target-Beauty-AusMade-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">Target Beauty<br>Australian Made</span>
-        
-        <!--<span class="dk-portfolio-item-category">
+                                        <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
         </span>-->
-        
-    </span>
-    
-</a>
+
+                                    </span>
+
+                                </a>
 
 
 
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockups">
-                    
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockups">
 
 
-<<<<<<< HEAD:home-1.html
-<a href="target-maxx-socks-folio.html" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-=======
-<a href="hersheys-reeses-bakery-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
->>>>>>> ed2a584d4935c86762f6be5ed0ed40340a242489:index.php
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Hersheys-Reeses-Bakery-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">MAXX Socks</span>
-        
-        <!--<span class="dk-portfolio-item-category">
+
+                                <a href="target-maxx-socks-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Hersheys-Reeses-Bakery-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">MAXX Socks</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
         </span>-->
-        
-    </span>
-    
-</a>
+
+                                    </span>
+
+                                </a>
 
 
 
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
-                    
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
 
-<a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Reese's-Rounds-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">Reese's Rounds</span>
-        
-        <!--<span class="dk-portfolio-item-category">
+
+                                <a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Reese's-Rounds-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">Reese's Rounds</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
         </span>-->
-        
-    </span>
-    
-</a>
-                </div>
 
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
-								<!-- TWO -->
-							<a href="eat-me-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-											<span class="dk-portfolio-item-image">
-													
-													<span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-													
-													<span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-													<img src="assets/images/eat-me-folio-3.png" alt="">
-											</span>
-											
-											<span class="dk-portfolio-item-info">
-													<span class="h3 dk-portfolio-item-title">Eat Me</span>
-													
-													<!--<span class="dk-portfolio-item-category">
+                                    </span>
+
+                                </a>
+                            </div>
+
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
+                                <!-- TWO -->
+                                <a href="eat-me-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/eat-me-folio-3.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">Eat Me</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
 															<span>Packaging</span>
 													</span>-->
-													
-											</span>
-											
-									</a>
+
+                                    </span>
+
+                                </a>
 
 
 
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
-                    
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
 
 
-<a href="a-love-story-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/A-Love-Story-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">A Love Story</span>
-        
-        <!--<span class="dk-portfolio-item-category">
+
+                                <a href="a-love-story-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/A-Love-Story-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">A Love Story</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
             <span>Branding</span>
         </span>-->
-        
-    </span>
-    
-</a>
+
+                                    </span>
+
+                                </a>
 
 
 
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
-                    
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
 
 
-<a href="chairmans-ruin-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Chairmans-Ruin-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">The Chairman's Ruin</span>
-        
-        <!--<span class="dk-portfolio-item-category">
+
+                                <a href="chairmans-ruin-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Chairmans-Ruin-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">The Chairman's Ruin</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
         </span>-->
-        
-    </span>
-    
-</a>
+
+                                    </span>
+
+                                </a>
 
 
 
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item photography">
-                <!-- FIVE -->
-									<a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-											<span class="dk-portfolio-item-image">
-													
-													<span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-													
-													<span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-													<img src="assets/images/Stacy-Hannah-Home.png" alt="">
-											</span>
-											
-											<span class="dk-portfolio-item-info">
-													<span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
-													
-													<!--<span class="dk-portfolio-item-category">
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item photography">
+                                <!-- FIVE -->
+                                <a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Stacy-Hannah-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
 															<span>Branding</span>
 													</span>-->
-													
-											</span>
-											
-									</a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
-                    
+
+                                    </span>
+
+                                </a>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
 
 
-<a href="brill-muffins-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-    <span class="dk-portfolio-item-image">
-        
-        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-        
-        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-        <img src="assets/images/Brill-Muffins-Pack-Home.png" alt="">
-    </span>
-    
-    <span class="dk-portfolio-item-info">
-        <span class="h3 dk-portfolio-item-title">Brill Muffins Mailer</span>
-        
-        <!--<span class="dk-portfolio-item-category">
+
+                                <a href="brill-muffins-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Brill-Muffins-Pack-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">Brill Muffins Mailer</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
             <span>Graphic Design</span>
         </span>-->
-        
-    </span>
-    
-</a>
+
+                                    </span>
+
+                                </a>
 
 
 
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
-                <!-- NINE -->
-								<a href="character-license-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
-										<span class="dk-portfolio-item-image">
-												
-												<span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
-												
-												<span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-												<img src="assets/images/Character-License-Home.png" alt="">
-										</span>
-										
-										<span class="dk-portfolio-item-info">
-												<span class="h3 dk-portfolio-item-title">Character License</span>
-												
-												<!--<span class="dk-portfolio-item-category">
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
+                                <!-- NINE -->
+                                <a href="character-license-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                    <span class="dk-portfolio-item-image">
+
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <img src="assets/images/Character-License-Home.png" alt="">
+                                    </span>
+
+                                    <span class="dk-portfolio-item-info">
+                                        <span class="h3 dk-portfolio-item-title">Character License</span>
+
+                                        <!--<span class="dk-portfolio-item-category">
 														<span>Design</span>
 												</span>-->
-												
-										</span>
-								</a>
-                </div>
-            </div>
-            <div class="dk-gap-1"></div>
 
-            <!-- <div class="dk-box-2">
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dk-gap-1"></div>
+
+                        <!-- <div class="dk-box-2">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
@@ -520,7 +378,7 @@
                 data-swiper-lazy
 
         -->
-       <!-- <div class="swiper-container dk-swiper dk-swiper-reviews"
+                        <!-- <div class="swiper-container dk-swiper dk-swiper-reviews"
              data-swiper-arrows="true"
              data-swiper-pagination="true"
              data-swiper-speed="400"
@@ -597,7 +455,7 @@
         </div>
         <!-- END: Slider Reviews -->
 
-           <!-- </div>
+                        <!-- </div>
 
             <div class="dk-box-2 text-center" style="background-color: #f3f3f3;">
                 <div class="container">
@@ -612,76 +470,77 @@
             </div> -->
 
 
- <div class="container">
-        <div class="row justify-content-center text-center">
-            <a href="#" class="link-decorated mt-50 mb-50" id="js-backtotop">Back to the Top &uarr;</a>
+                        <div class="container">
+                            <div class="row justify-content-center text-center">
+                                <a href="#" class="link-decorated mt-50 mb-50" id="js-backtotop">Back to the Top &uarr;</a>
 
-        </div>
-    </div>
-            
-<!-- START: Footer -->
-<footer class="dk-footer-copyright">
-    <div class="container">
-        <ul class="dk-social-links dk-social-links-dark text-center mb-13">
-            <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
-            <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
-            <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
-        </ul>
-        <p class="mb-0">&copy; Sam MacIntyre 2018</p>
-    </div>
-</footer>
-<!-- END: Footer -->
+                            </div>
+                        </div>
 
-
-
-
-            </div>
-
-            
-
-            
-        <!-- START: Scripts -->
-
-        <!-- Object Fit Images -->
-        <script src="assets/vendor/object-fit-images/dist/ofi.min.js"></script>
-
-        <!-- Popper -->
-        <script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
-
-        <!-- Bootstrap -->
-        <script src="assets/vendor/tether/dist/js/tether.min.js"></script>
-        <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
-
-        <!-- Sticky Kit -->
-        <script src="assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
-
-        <!-- Jarallax -->
-        <script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
-        <script src="assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
-
-        <!-- Isotope -->
-        <script src="assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
-
-        <!-- ImagesLoaded -->
-        <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-
-        <!-- Lightgallery -->
-        <script src="assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
-        <script src="assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
-        <script src="assets/vendor/lg-video/dist/lg-video.min.js"></script>
-
-        <!-- Swiper -->
-        <script src="assets/vendor/swiper/dist/js/swiper.min.js"></script>
-
-        <!-- The Mimilism -->
-        <script src="assets/js/mimilism.min.js"></script>
-        <script src="assets/js/mimilism-init.js"></script>
-        <!-- END: Scripts -->
-
-        <script src="assets/js/sam.js"></script>
+                        <!-- START: Footer -->
+                        <footer class="dk-footer-copyright">
+                            <div class="container">
+                                <ul class="dk-social-links dk-social-links-dark text-center mb-13">
+                                    <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
+                                    <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
+                                    <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
+                                </ul>
+                                <p class="mb-0">&copy; Sam MacIntyre 2018</p>
+                            </div>
+                        </footer>
+                        <!-- END: Footer -->
 
 
 
-            
+
+                    </div>
+
+
+
+
+                    <!-- START: Scripts -->
+
+                    <!-- Object Fit Images -->
+                    <script src="assets/vendor/object-fit-images/dist/ofi.min.js"></script>
+
+                    <!-- Popper -->
+                    <script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+
+                    <!-- Bootstrap -->
+                    <script src="assets/vendor/tether/dist/js/tether.min.js"></script>
+                    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+                    <!-- Sticky Kit -->
+                    <script src="assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
+
+                    <!-- Jarallax -->
+                    <script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
+                    <script src="assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
+
+                    <!-- Isotope -->
+                    <script src="assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
+
+                    <!-- ImagesLoaded -->
+                    <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+
+                    <!-- Lightgallery -->
+                    <script src="assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
+                    <script src="assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
+                    <script src="assets/vendor/lg-video/dist/lg-video.min.js"></script>
+
+                    <!-- Swiper -->
+                    <script src="assets/vendor/swiper/dist/js/swiper.min.js"></script>
+
+                    <!-- The Mimilism -->
+                    <script src="assets/js/mimilism.min.js"></script>
+                    <script src="assets/js/mimilism-init.js"></script>
+                    <!-- END: Scripts -->
+
+                    <script src="assets/js/sam.js"></script>
+
+
+
+
         </body>
+
         </html>

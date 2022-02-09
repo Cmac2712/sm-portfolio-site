@@ -28,7 +28,9 @@
 		<!-- START: Styles -->
 
 		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Nunito:400,700%7cPlayball%7cPT+Serif:700i" rel="stylesheet"><!-- %7c -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet"><!-- %7c -->
 
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
@@ -61,5 +63,3 @@
 		<?php include_once('./inc/ga.php'); ?>         
 		
 	</head>
-
-

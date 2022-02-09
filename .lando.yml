@@ -1,0 +1,4 @@
+name: sams-portfolio
+recipe: lamp
+config:
+  webroot: .

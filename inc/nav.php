@@ -17,7 +17,7 @@ $page_name = basename($_SERVER['PHP_SELF']);
             <div class="container">
                 <div class="dk-nav-content">
                     
-                    <a href="/" class="dk-nav-logo">SAM&nbsp;MACINTYRE</a>
+                    <a href="/" class="dk-nav-logo">Sam&nbsp;MacIntyre</a>
                     
                     
                     

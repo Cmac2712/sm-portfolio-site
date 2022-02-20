@@ -25,7 +25,7 @@
                         <div class="row justify-content-left text-left">
                             <div class="col-lg-8">
                                 <h3>Hello, I'm Sam.</h3>
-                                <h3>A skilled, creative graphic designer who loves working with brands to design stand out packaging & engaging visual experiences.</h3>
+                                <p class="h3">I'm a skilled, creative graphic designer who loves working with brands to design stand out packaging & engaging visual experiences.</p>
                                 <a href="contact.html" class="link-decorated mt-1 fs-24">Let's work together!</a>
                             </div>
                         </div>

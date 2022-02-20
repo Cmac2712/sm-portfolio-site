@@ -5,14 +5,11 @@
 
 		<?php include_once('./inc/nav.php'); ?>
 
-			<div class="dk-box-1 mnt-20 pb-45">
+			<div class="dk-box-1 mnt-20 pb-45" >
 				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-lg-3">
-                <img class="dk-img circular-image" src="assets/images/About-Me3.png" alt="">
-            </div>
+					<div class="row">
 						<div class="col-lg-6">
-							<h2 class="mb-10">Creative. &nbsp;Inquisitive. &nbsp;Passionate.</h2>
+							<h2 class="mb-10">About me</h2>
 							<p class="mb-6">Hi, I'm Sam and I love working with brands big and small to create engaging visual experiences and stand-out packaging.
 							</p>
 							<p class="mb-6">Along with my creativity & design skill, I bring a commercial awareness and technical grounding to projects.  This allows me to work successfully in multi-disciplinary teams with some of the biggest brands in the world.  I'm always eager to add to my skillset too - every day's a school day after all!
@@ -20,95 +17,13 @@
 							<p class="mb-6">When I'm not working you'll find me crafting, enjoying new foodie finds with my hubby or most-likely hanging upside down off some form of aerial apparatus!
 							</p>
 							<!--<a href="contact" class="link-decorated mt-10">get in touch</a>-->
+
+                            <a href="/assets/sam-macintyre-cv.pdf" class="db link-decorated fs-24 mt-20">Want to know more? Download my CV.</a>
 						</div>
 					</div>
 				</div>
 			</div>
 
-			<div class="dk-box-1 pt-0 pb-45">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-8">
-							<ul class="dk-list lead">
-								<li><strong>Experience</strong><br>
-									<br><strong>&#183; &nbsp;<a href="https://moosetoys.com/au" class="link-aboutme">Moose Toys</a> - Graphic Designer (Temp)</strong>
-									<br>&nbsp; &nbsp;4th March 2019 - 31st May 2019
-									<br><i>&nbsp; &nbsp;Brands worked with: Treasure X &amp; Little Live Pets</i>
-									<br>
-									<br><strong>&#183; &nbsp;<a href="http://www.lightbodyventures.com/" class="link-aboutme">Lightbody Ventures</a> - Graphic Designer</strong>
-									<br>&nbsp; &nbsp;March 2016 - December 2018
-									<br><i>&nbsp; &nbsp;Brands worked with include: Disney, Hershey's, Reese's & Thorntons</i>
-									<br>
-									<br><strong>&#183; &nbsp;<a href="https://www.beamsuntory.com/home" class="link-aboutme">Beam Suntory</a> - Packaging Technologist</strong>
-									<br>&nbsp; &nbsp;September 2015 - March 2016
-									<br><i>&nbsp; &nbsp;Brands worked with include: Laphroaig, Bowmore & Teacher's</i>
-									<br>
-									<br><strong>&#183; &nbsp;<a href="https://www.worldsapart.com/" class ="link-aboutme">Worlds Apart Ltd.</a> - Product Designer</strong>
-									<br>&nbsp; &nbsp;October 2014 - July 2015
-									<br><i>&nbsp; &nbsp;Brands worked with include: Disney, Universal (Despicable Me) & Peppa Pig</i>
-								</li>
-							</ul>   
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div class="dk-box-1 pt-0 pb-45">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-4">
-							<ul class="dk-list lead lh-40">
-								<li><strong>Skills I Have</strong>
-									<br>&#183; &nbsp;Ideation Sketching & Concept Creation
-									<br>&#183; &nbsp;Problem Solving
-									<br>&#183; &nbsp;Concept Visualisation
-									<br>&#183; &nbsp;Layout & Print Design
-									<br>&#183; &nbsp;Packaging Design
-									<br>&#183; &nbsp;Digital Design
-									<br>&#183; &nbsp;Product Design
-								</li>
-							</ul> 
-						</div>
-						<div class="col-md-4">
-							<ul class="dk-list lead lh-40">
-								<li><br>&#183; &nbsp;Brand Development & Identity
-									<br>&#183; &nbsp;Photography
-									<br>&#183; &nbsp;Motion Graphics
-									<br>&#183; &nbsp;Packaging Development
-									<br>&#183; &nbsp;Project Management
-									<br>&#183; &nbsp;Commercial Awareness
-								</li>
-							</ul> 
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="dk-box-1 pt-0 pb-45">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-4">
-							<ul class="dk-list lead lh-40">
-								<li><strong>Tools I Use</strong>
-									<br>&#183; &nbsp;Adobe Illustrator
-									<br>&#183; &nbsp;Adobe Photoshop
-									<br>&#183; &nbsp;Adobe InDesign
-									<br>&#183; &nbsp;Adobe After Effects
-								</li>
-							</ul> 
-						</div>
-						<div class="col-md-4">
-							<ul class="dk-list lead lh-40">
-								<li><br>&#183; &nbsp;Microsoft Office
-									<br>&#183; &nbsp;HTML & CSS
-									<br>&#183; &nbsp;Wordpress CMS
-								</li>
-							</ul> 
-						</div>
-					</div>
-				</div>
-			</div>
 
 			 <div class="container">
         <div class="row justify-content-center text-center">
@@ -125,7 +40,7 @@
             <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
             <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
         </ul>
-        <p class="mb-0">&copy; Sam MacIntyre 2018</p>
+        <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?></p>
     </div>
 </footer>
 <!-- END: Footer -->

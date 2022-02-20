@@ -78,9 +78,9 @@
         <ul class="dk-social-links dk-social-links-dark text-center mb-13">
             <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
             <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
-            <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
+            <li><a href="https://www.instagram.com/sammacintyre.design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
         </ul>
-        <p class="mb-0">&copy; Sam MacIntyre 2018</p>
+        <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?> </p>
     </div>
 </footer>
 <!-- END: Footer -->

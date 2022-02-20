@@ -12,9 +12,9 @@
                     <h1 class="mnt-9">Get in Touch</h1>
                     <p class="lead">If you'd like to work with me or<br>just want to say hello please get in touch!</p>
                     <ul class="dk-list lead mb-30">
-                        <li><a href="#"><span class="fas fa-envelope social-contact"></span>&nbsp; hello@sammacintyre.com</a></li>
-                        <li><a href="#"><span class="fab fa-linkedin social-contact"></span>&nbsp; /sammacintyre</a></li>
-                        <li><a href="#"><span class="fab fa-instagram social-contact"></span>&nbsp; /smac_design</a></li>
+                        <li><a href="mailto:hello@sammacintyre.com"><span class="fas fa-envelope social-contact"></span>&nbsp; hello@sammacintyre.com</a></li>
+                        <li><a href="https://www.linkedin.com/in/sammacintyre/"><span class="fab fa-linkedin social-contact"></span>&nbsp; /sammacintyre</a></li>
+                        <li><a href="https://www.instagram.com/sammacintyre.design/"><span class="fab fa-instagram social-contact"></span>&nbsp; /sammacintyre.design</a></li>
                     </ul>
                 </div>
             </div>
@@ -28,9 +28,9 @@
         <ul class="dk-social-links dk-social-links-dark text-center mb-13">
             <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
             <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
-            <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
+            <li><a href="https://www.instagram.com/sammacintyre.design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
         </ul>
-        <p class="mb-0">&copy; Sam MacIntyre 2018</p>
+        <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?> </p>
     </div>
 </footer>
 <!-- END: Footer -->

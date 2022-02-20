@@ -42,13 +42,13 @@ $page_name = basename($_SERVER['PHP_SELF']);
                 </li>  
                 <!-- LINK FOUR -->
                 <li class="dk-drop-item">
-                    <a href="https://www.linkedin.com/in/samcoton/">
+                    <a href="https://www.linkedin.com/in/sammacintyre/">
                         <span class="fab fa-linkedin"></span>
                     </a>
                 </li>
                  <!-- LINK FIVE -->
                 <li class="dk-drop-item">
-                    <a href="https://www.instagram.com/smac_design/">
+                    <a href="https://www.instagram.com/sammacintyre.design/">
                         <span class="fab fa-instagram"></span>
                     </a>
                 </li>

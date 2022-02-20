@@ -80,7 +80,7 @@
             <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
             <li><a href="#" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
         </ul>
-        <p class="mb-0">&copy; Sam MacIntyre 2018</p>
+        <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?> </p>
     </div>
 </footer>
 <!-- END: Footer -->

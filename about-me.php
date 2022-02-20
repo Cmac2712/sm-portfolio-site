@@ -10,11 +10,9 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<h2 class="mb-10">About me</h2>
-							<p class="mb-6">Hi, I'm Sam and I love working with brands big and small to create engaging visual experiences and stand-out packaging.
+							<p class="mb-6">I'm a skilled, creative graphic designer with a passion for packaging.  
 							</p>
-							<p class="mb-6">Along with my creativity & design skill, I bring a commercial awareness and technical grounding to projects.  This allows me to work successfully in multi-disciplinary teams with some of the biggest brands in the world.  I'm always eager to add to my skillset too - every day's a school day after all!
-							</p>
-							<p class="mb-6">When I'm not working you'll find me crafting, enjoying new foodie finds with my hubby or most-likely hanging upside down off some form of aerial apparatus!
+							<p class="mb-6">An inquisitive problem solver, my experience ranges from concept & brand development, through to packaging development & overall project management.  I successfully drive projects from concept to completion whilst producing high quality, creative designs along the way working with some of the biggest names in food, drinks & retail around the world. 
 							</p>
 							<!--<a href="contact" class="link-decorated mt-10">get in touch</a>-->
 
@@ -38,9 +36,9 @@
         <ul class="dk-social-links dk-social-links-dark text-center mb-13">
             <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
             <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
-            <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
+            <li><a href="https://www.instagram.com/sammacintyre.design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
         </ul>
-        <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?></p>
+        <p class="mb-0">&copy; Sam MacIntyre  <?php echo date('Y'); ?> </p>
     </div>
 </footer>
 <!-- END: Footer -->

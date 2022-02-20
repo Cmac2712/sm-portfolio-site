@@ -30,7 +30,7 @@
 	</div>
 </div>
 <footer>
-<div class="container">© Sam MacIntyre 2018</div>
+<div class="container">© Sam MacIntyre <?php echo date('Y'); ?> </div>
 	</footer>
 </body>
 </html>

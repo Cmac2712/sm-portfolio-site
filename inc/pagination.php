@@ -9,6 +9,7 @@
         '/target-maxx-socks-folio',
         '/disney-kitchen-folio',
         '/reeses-rounds-folio',
+        '/hersheys-reeses-bakery-folio',
         '/eat-me-folio',
         '/stacy-hannah-folio'
     );

@@ -24,8 +24,9 @@
                     <div class="container">
                         <div class="row justify-content-left text-left">
                             <div class="col-lg-8">
-                                <h3>Hello, I'm Sam.</h3>
-                                <p class="h3">I'm a skilled, creative graphic designer who loves working with brands to design stand out packaging & engaging visual experiences.</p>
+                                <h3>Hi, I'm Sam.</h3>
+                                <p class="h3">I'm an experienced, packaging graphic designer based in Glasgow.  I love all things packaging - from designing initial concepts through to working with suppliers to develop final solutions.</p>
+                                <p class="h3">Whether you need help translating a jumble of complex information into clean, impactful packaging artwork; want to mock-up concepts to get that all important customer buy-in; or are not sure where to start when it comes to specifying colours, materials and print finishes - I can help!</p>
                                 <a href="contact.html" class="link-decorated mt-1 fs-24">Let's work together!</a>
                             </div>
                         </div>
@@ -476,7 +477,7 @@
                                     <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
                                     <li><a href="https://www.instagram.com/smac_design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
                                 </ul>
-                                <p class="mb-0">&copy; Sam MacIntyre 2018</p>
+                                <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?></p>
                             </div>
                         </footer>
                         <!-- END: Footer -->

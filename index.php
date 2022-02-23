@@ -50,10 +50,6 @@
                                     <span class="dk-portfolio-item-info">
                                         <span class="h3 dk-portfolio-item-title">Target Beauty<br>Australian Made</span>
 
-                                        <!--<span class="dk-portfolio-item-category">
-            <span>Packaging</span>
-        </span>-->
-
                                     </span>
 
                                 </a>

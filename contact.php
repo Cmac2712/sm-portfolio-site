@@ -9,12 +9,11 @@
         <div class="container">
             <div class="row justify-content-center text-center">
                 <div class="col-lg-6">
-                    <h1 class="mnt-9">Get in Touch</h1>
-                    <p class="lead">If you'd like to work with me or<br>just want to say hello please get in touch!</p>
+                    <h4><strong>Let's work together!</strong></h4>
                     <ul class="dk-list lead mb-30">
-                        <li><a href="mailto:hello@sammacintyre.com"><span class="fas fa-envelope social-contact"></span>&nbsp; hello@sammacintyre.com</a></li>
-                        <li><a href="https://www.linkedin.com/in/sammacintyre/"><span class="fab fa-linkedin social-contact"></span>&nbsp; /sammacintyre</a></li>
-                        <li><a href="https://www.instagram.com/sammacintyre.design/"><span class="fab fa-instagram social-contact"></span>&nbsp; /sammacintyre.design</a></li>
+                        <li><a class="text-dec-none" href="mailto:hello@sammacintyre.com"><span class="fas fa-envelope social-contact"></span>&nbsp; hello@sammacintyre.com</a></li>
+                        <li><a class="text-dec-none" href="https://www.linkedin.com/in/sammacintyre/"><span class="fab fa-linkedin social-contact"></span>&nbsp; /sammacintyre</a></li>
+                        <li><a class="text-dec-none" href="https://www.instagram.com/sammacintyre.design/"><span class="fab fa-instagram social-contact"></span>&nbsp; /sammacintyre.design</a></li>
                     </ul>
                 </div>
             </div>

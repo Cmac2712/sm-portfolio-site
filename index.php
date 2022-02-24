@@ -24,10 +24,10 @@
                     <div class="container">
                         <div class="row justify-content-left text-left">
                             <div class="col-lg-8">
-                                <h3>Hi, I'm Sam.</h3>
-                                <p class="h3">I'm an experienced, packaging graphic designer based in Glasgow.  I love all things packaging - from designing initial concepts through to working with suppliers to develop final solutions.</p>
-                                <p class="h3">Whether you need help translating a jumble of complex information into clean, impactful packaging artwork; want to mock-up concepts to get that all important customer buy-in; or are not sure where to start when it comes to specifying colours, materials and print finishes - I can help!</p>
-                                <a href="contact.html" class="link-decorated mt-1 fs-24">Let's work together!</a>
+                                <h4>Hi, I'm Sam.</h4>
+                                <p class="h4">I'm an experienced packaging graphic designer based in Glasgow.  I love all things packaging - from designing initial concepts through to working with suppliers to develop final solutions.</p>
+                                <p class="h4">Whether you need help translating information into clean, impactful packaging artwork; want to mock-up concepts to get that all important customer buy-in; or are not sure where to start when it comes to specifying materials and print finishes - I can help!</p>
+                                <a href="contact" class="link-decorated mt-1 fs-24">Let's work together!</a>
                             </div>
                         </div>
                     </div>

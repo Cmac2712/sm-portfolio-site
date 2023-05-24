@@ -15,7 +15,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
                     <h1 class="display-3 text-white">Stacy Hannah Chocolate</h1>
-                    <p class="lead text-white mb-0">Branding & illustration for luxury Scottish chocolatier Stacy Hannah Chocolates.  Stacy's chocolates are bright and beautiful so her branding had to reflect this.</p>
+                    <p class="lead text-white mb-0">Branding & illustration for luxury Scottish chocolatier Stacy Hannah Chocolates.</p>
                 </div>
             </div>
         </div>
@@ -27,15 +27,15 @@
                 <div class="col-12 col-lg-3">
                     <ul class="dk-list">
                         <li><strong>Client</strong><br>Stacy Hannah Chocolate</li>
-                        <li><strong>Date</strong><br>August 2016</li>
+                        <li><strong>Date</strong><br>August 2022</li>
                         <li><strong>Key Responsibilities</strong><br>Brand Development<br>Logo Design<br>Illustration<br>Print Design</li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">Stacy Hannah Chocolate is a luxury Scottish chocolatier.  Her creations are as beautiful as they are delicious combining creativity with a curious palate, Stacy always produces mouth watering confections.</p><p class="mb-0">Having first worked with Stacy in 2014, she was now much clearer in her vision for her business and wanted her brand to reflect her creativity and bold, colourful chocolate designs.</p>
+                    <p class="pb-20 mb-0">Stacy Hannah Chocolate is a luxury Scottish chocolatier.  Her creations are as beautiful as they are delicious combining creativity with a curious palate, Stacy always produces mouth watering confections.</p>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">Keeping the cocoa pod central in the design process I drew upon it’s naturally colourful appearance and built a clean monogram around it.  Keeping the monogram & typeface clean allows the bright colours of the cocoa pod & therefore Stacy’s creativity to shine through.</p><p class="mb-0">Back in 2014 I created illustrations for each chocolate flavour & these were updated in this refresh, showcasing the works of art that each of Stacy’s creations are.</p>
+                    <p class="pb-20 mb-0">Having worked with Stacy in previous years, she came to me in 2022 looking for fresh branding and packaging to relaunch her business.  Now based in Stranraer, she wanted her branding to reflect her new coastal location as well as the beauty of her creations.</p>
                 </div>
             </div>
         </div>

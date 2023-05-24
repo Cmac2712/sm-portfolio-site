@@ -33,8 +33,6 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <p class="pb-20 mb-0">Stacy Hannah Chocolate is a luxury Scottish chocolatier.  Her creations are as beautiful as they are delicious combining creativity with a curious palate, Stacy always produces mouth watering confections.</p>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
                     <p class="pb-20 mb-0">Having worked with Stacy in previous years, she came to me in 2022 looking for fresh branding and packaging to relaunch her business.  Now based in Stranraer, she wanted her branding to reflect her new coastal location as well as the beauty of her creations.</p>
                 </div>
             </div>

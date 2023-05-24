@@ -23,7 +23,7 @@
 
     <div class="dk-box-2">
         <div class="container mnb-8">
-            <div class="row justify-content-between vertical-gap mnt-35">
+            <div class="row justify-content-start vertical-gap mnt-35">
                 <div class="col-12 col-lg-3">
                     <ul class="dk-list">
                         <li><strong>Client</strong><br>Stacy Hannah Chocolate</li>

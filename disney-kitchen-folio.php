@@ -7,7 +7,7 @@
 
     <div class="dk-box-4">
         <div class="bg-image bg-image-parallax">
-            <img src="assets/images/Disney-Kitchen-Folio1.png" class="jarallax-img" alt="">
+            <img src="/assets/images/Disney-Kitchen-Folio1.png" class="jarallax-img" alt="">
             <div style="background-color: rgba(32, 32, 32, .6);"></div>
         </div>
 
@@ -57,7 +57,7 @@
 					<!-- data-src should not be provided when you use html5 videos -->
 					<div id="html5-videos">
 					  <div data-poster="video-poster1.jpg" data-sub-html="Disney Kitchen" data-html="#video1" class="dk-gallery-video text-center">
-						  <img src="assets/images/Sizzle-for-Folio.png" />
+						  <img src="/assets/images/Sizzle-for-Folio.png" />
                           <a class="dk-btn dk-btn-play btn-center"></a>
 					  </div>
 					</div>	
@@ -65,16 +65,16 @@
 
 
                 <div class="col-sm-6">
-                    <a href="assets/images/Disney-Kitchen-Folio5.png" class="dk-gallery-item"><img src="assets/images/Disney-Kitchen-Folio5.png" alt=""></a>
+                    <a href="assets/images/Disney-Kitchen-Folio5.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio5.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Disney-Kitchen-Folio3.png" class="dk-gallery-item"><img src="assets/images/Disney-Kitchen-Folio3.png" alt=""></a>
+                    <a href="assets/images/Disney-Kitchen-Folio3.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio3.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Disney-Kitchen-Folio4.png" class="dk-gallery-item"><img src="assets/images/Disney-Kitchen-Folio4.png" alt=""></a>
+                    <a href="assets/images/Disney-Kitchen-Folio4.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio4.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Disney-Kitchen-Folio2.png" class="dk-gallery-item"><img src="assets/images/Disney-Kitchen-Folio2.png" alt=""></a>
+                    <a href="assets/images/Disney-Kitchen-Folio2.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio2.png" alt=""></a>
                 </div>
             </div>
         </div>
@@ -107,39 +107,39 @@
 <!-- START: Scripts -->
 
 <!-- Object Fit Images -->
-<script src="assets/vendor/object-fit-images/dist/ofi.min.js"></script>
+<script src="/assets/vendor/object-fit-images/dist/ofi.min.js"></script>
 
 <!-- Popper -->
-<script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+<script src="/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
 
 <!-- Bootstrap -->
-<script src="assets/vendor/tether/dist/js/tether.min.js"></script>
-<script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/assets/vendor/tether/dist/js/tether.min.js"></script>
+<script src="/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 
 <!-- Sticky Kit -->
-<script src="assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
+<script src="/assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
 
 <!-- Jarallax -->
-<script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
-<script src="assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
+<script src="/assets/vendor/jarallax/dist/jarallax.min.js"></script>
+<script src="/assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
 
 <!-- Isotope -->
-<script src="assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
+<script src="/assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
 
 <!-- ImagesLoaded -->
-<script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
 
 <!-- Lightgallery -->
-<script src="assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
-<script src="assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
-<script src="assets/vendor/lg-video/dist/lg-video.min.js"></script>
+<script src="/assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
+<script src="/assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
+<script src="/assets/vendor/lg-video/dist/lg-video.min.js"></script>
 
 <!-- Swiper -->
-<script src="assets/vendor/swiper/dist/js/swiper.min.js"></script>
+<script src="/assets/vendor/swiper/dist/js/swiper.min.js"></script>
 
 <!-- The Mimilism -->
-<script src="assets/js/mimilism.min.js"></script>
-<script src="assets/js/mimilism-init.js"></script>
+<script src="/assets/js/mimilism.min.js"></script>
+<script src="/assets/js/mimilism-init.js"></script>
 <!-- END: Scripts -->
 
 <script>

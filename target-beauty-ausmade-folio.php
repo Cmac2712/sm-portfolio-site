@@ -22,7 +22,7 @@
 
         <div class="dk-box-4">
             <div class="bg-image bg-image-parallax">
-                <img src="assets/images/Target-Beauty-AusMade-Folio1.png" class="jarallax-img" alt="">
+                <img src="/assets/images/Target-Beauty-AusMade-Folio1.jpg" class="jarallax-img" alt="">
                 <div style="background-color: rgba(32, 32, 32, .6);"></div>
             </div>
 
@@ -65,22 +65,25 @@
 
 
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio2.png" class="dk-gallery-item"><img src="assets/images/Target-Beauty-AusMade-Folio2.png" alt=""></a>
+                        <a href="assets/images/Target-Beauty-AusMade-Folio2.jpg" class="dk-gallery-item">
+                            <img src="assets/images/Target-Beauty-AusMade-Folio2.jpg" alt="">
+                            <img src="assets/images/Target-Beauty-AusMade-Folio2.jpg" alt="">
+                        </a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio4.png" class="dk-gallery-item"><img src="assets/images/Target-Beauty-AusMade-Folio4.png" alt=""></a>
+                        <a href="assets/images/Target-Beauty-AusMade-Folio4.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio4.jpg" alt=""></a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio6.png" class="dk-gallery-item"><img src="assets/images/Target-Beauty-AusMade-Folio6.png" alt=""></a>
+                        <a href="assets/images/Target-Beauty-AusMade-Folio6.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio6.jpg" alt=""></a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio3.png" class="dk-gallery-item"><img src="assets/images/Target-Beauty-AusMade-Folio3.png" alt=""></a>
+                        <a href="assets/images/Target-Beauty-AusMade-Folio3.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio3.jpg" alt=""></a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio7.png" class="dk-gallery-item"><img src="assets/images/Target-Beauty-AusMade-Folio7.png" alt=""></a>
+                        <a href="assets/images/Target-Beauty-AusMade-Folio7.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio7.jpg" alt=""></a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio5.png" class="dk-gallery-item"><img src="assets/images/Target-Beauty-AusMade-Folio5.png" alt=""></a>
+                        <a href="assets/images/Target-Beauty-AusMade-Folio5.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio5.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -112,39 +115,39 @@
     <!-- START: Scripts -->
 
     <!-- Object Fit Images -->
-    <script src="assets/vendor/object-fit-images/dist/ofi.min.js"></script>
+    <script src="/assets/vendor/object-fit-images/dist/ofi.min.js"></script>
 
     <!-- Popper -->
-    <script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+    <script src="/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="assets/vendor/tether/dist/js/tether.min.js"></script>
-    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/assets/vendor/tether/dist/js/tether.min.js"></script>
+    <script src="/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 
     <!-- Sticky Kit -->
-    <script src="assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
+    <script src="/assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
 
     <!-- Jarallax -->
-    <script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
-    <script src="assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
+    <script src="/assets/vendor/jarallax/dist/jarallax.min.js"></script>
+    <script src="/assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
 
     <!-- Isotope -->
-    <script src="assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
+    <script src="/assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
 
     <!-- ImagesLoaded -->
-    <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
 
     <!-- Lightgallery -->
-    <script src="assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
-    <script src="assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
-    <script src="assets/vendor/lg-video/dist/lg-video.min.js"></script>
+    <script src="/assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
+    <script src="/assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
+    <script src="/assets/vendor/lg-video/dist/lg-video.min.js"></script>
 
     <!-- Swiper -->
-    <script src="assets/vendor/swiper/dist/js/swiper.min.js"></script>
+    <script src="/assets/vendor/swiper/dist/js/swiper.min.js"></script>
 
     <!-- The Mimilism -->
-    <script src="assets/js/mimilism.min.js"></script>
-    <script src="assets/js/mimilism-init.js"></script>
+    <script src="/assets/js/mimilism.min.js"></script>
+    <script src="/assets/js/mimilism-init.js"></script>
     <!-- END: Scripts -->
 
     <script>

@@ -17,26 +17,37 @@ $page_name = basename($_SERVER['PHP_SELF']);
             <div class="container">
                 <div class="dk-nav-content">
                     
-                    <a href="/" class="dk-nav-logo">Sam&nbsp;MacIntyre</a>
+                    <a href="/" class="dk-nav-logo font-500">Sam&nbsp;MacIntyre</a>
                     
                     
                     
-            <ul class="dk-nav dk-nav-align-right">
+            
+                    
+                </div>
+            </div>
+        </nav>
+
+<div class="dk-navbar dk-navbar-fullscreen">
+    <div class="container">
+        <div class="d-block"></div>
+        <div class="dk-nav-content">
+            <!-- This will copy the contents of the dk-nav-content -->
+<ul class="dk-nav">
                 <!-- LINK ONE -->
-                <li class="dk-drop-item <?php if ($page_name === 'index.php') echo 'active'; ?>">
-                    <a href="/">
+                <li class="dk-drop-item <?php if ($page_name === '/index.php') echo 'active'; ?>">
+                    <a href="/" class="font-500">
                         Work
                     </a>
                 </li>
                 <!-- LINK TWO -->
-				<li class="dk-drop-item <?php if ($page_name === 'about-me.php') echo 'active'; ?>">
-                    <a href="about-me">
+				<li class="dk-drop-item <?php if ($page_name === '/about-me.php') echo 'active'; ?>">
+                    <a href="about-me" class="font-500">
                         About Me
                     </a>
                 </li>
                 <!-- LINK THREE -->
-                <li class="dk-drop-item <?php if ($page_name === 'contact.php') echo 'active'; ?>">
-                    <a href="contact">
+                <li class="dk-drop-item <?php if ($page_name === '/contact.php') echo 'active'; ?>">
+                    <a href="contact" class="font-500">
                         Contact
                     </a>
                 </li>  
@@ -53,25 +64,8 @@ $page_name = basename($_SERVER['PHP_SELF']);
                     </a>
                 </li>
             </ul>
-                    
-                </div>
-            </div>
-        </nav>
-
-<div class="dk-navbar dk-navbar-fullscreen">
-    <div class="container">
-        <div class="d-block"></div>
-        <div class="dk-nav-content">
-            <!-- This will copy the contents of the dk-nav-content -->
         </div>
-        <ul class="dk-social-links text-center">
-            <li><a href="#" class="dk-social-facebook"><span class="fab fa-facebook-f"></span></a></li>
-            <li><a href="#" class="dk-social-twitter"><span class="fab fa-twitter"></span></a></li>
-            <li><a href="#" class="dk-social-google-plus"><span class="fab fa-google-plus-g"></span></a></li>
-            <li><a href="#" class="dk-social-behance"><span class="fab fa-behance"></span></a></li>
-            <li><a href="#" class="dk-social-pinterest"><span class="fab fa-pinterest"></span></a></li>
-            <li><a href="#" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
-        </ul>
+        
     </div>
 </div>	
        

@@ -23,11 +23,22 @@
                 <div class="dk-box-1 mnt-20">
                     <div class="container">
                         <div class="row justify-content-left text-left">
-                            <div class="col-lg-8">
-                                <h4>Hi, I'm Sam.</h4>
+                            <div class="col-lg-7 text-center mx-auto mt-20 mb-20">
+                                <!-- <h4>Hi, I'm Sam.</h4>
                                 <p class="h4">I'm an experienced packaging graphic designer based in Glasgow.  I love all things packaging - from designing initial concepts through to working with suppliers to develop final solutions.</p>
                                 <p class="h4">Whether you need help translating information into clean, impactful packaging artwork; want to mock-up concepts to get that all important customer buy-in; or are not sure where to start when it comes to specifying materials and print finishes - I can help!</p>
-                                <a href="contact" class="link-decorated mt-1 fs-24">Let's work together!</a>
+                                <a href="contact" class="link-decorated mt-1 fs-24">Let's work together!</a> -->
+
+                                <p class="h3 font-200" style="line-height: 1.25">
+                                    Hello, I’m a 
+                                    <strong class="text-yellow font-500"> freelance graphic designer </strong>
+                                     who specialises in crafting impactful, strategic branding and stand-out packaging. 
+                                </p>
+                                <!-- <p class="h4 font-200">
+                                Whether you’re an agency seeking support for your upcoming project or a business looking for a creative boost for your branding and packaging, get in touch to 
+                                see how I can help.
+                                </p> -->
+                                <a href="contact" class="link-decorated mt-1 fs-24 font-500">Let's work together!</a> 
                             </div>
                         </div>
                     </div>
@@ -45,12 +56,11 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Target-Beauty-AusMade-Home.png" alt="">
+                                        <img src="/assets/images/Target-Beauty-AusMade-Home.jpg" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
                                         <span class="h3 dk-portfolio-item-title">Target Beauty<br>Australian Made</span>
-
                                     </span>
 
                                 </a>
@@ -63,10 +73,11 @@
                                 <a href="target-thermals-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
-                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
+                                        <!-- <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span> -->
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Target-Thermals-Home.png" alt="">
+                                        <img src="/assets/images/Target-Thermals-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -92,7 +103,7 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Target-Beauty-Main-Home.png" alt="">
+                                        <img src="/assets/images/Target-Beauty-Main-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -118,7 +129,7 @@
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
                                         <img 
-                                            src="assets/images/MAXX-Socks-Home.png" 
+                                            src="/assets/images/MAXX-Socks-Home.png" 
                                             alt=""
                                         >
                                     </span>
@@ -144,10 +155,10 @@
                                 <a href="hersheys-reeses-bakery-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
-                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Hersheys-Reeses-Bakery-Home.png" alt="">
+                                        <img src="/assets/images/Hersheys-Reeses-Bakery-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -168,10 +179,10 @@
                                 <a href="disney-kitchen-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
-                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span>
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Disney-Kitchen-Home.png" alt="">
+                                        <img src="/assets/images/Disney-Kitchen-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -193,7 +204,7 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Reese's-Rounds-Home.png" alt="">
+                                        <img src="/assets/images/Reese's-Rounds-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -217,7 +228,7 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/eat-me-folio-3.png" alt="">
+                                        <img src="/assets/images/eat-me-folio-3.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -236,7 +247,7 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="assets/images/Stacy-Hannah-Home.png" alt="">
+                                        <img src="/assets/images/Stacy-Hannah-Home.png" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
@@ -271,12 +282,12 @@
                     <div class="row vertical-gap dk-gallery">
                         <div class="col-md-6">
                             <a href="assets/images/img-1.png" class="dk-gallery-item">
-                                <img class="dk-img" src="assets/images/img-1.png" alt="">
+                                <img class="dk-img" src="/assets/images/img-1.png" alt="">
                             </a>
                         </div>
                         <div class="col-md-6">
                             <a href="assets/images/img-2.png" class="dk-gallery-item">
-                                <img class="dk-img" src="assets/images/img-2.png" alt="">
+                                <img class="dk-img" src="/assets/images/img-2.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -489,42 +500,42 @@
                     <!-- START: Scripts -->
 
                     <!-- Object Fit Images -->
-                    <script src="assets/vendor/object-fit-images/dist/ofi.min.js"></script>
+                    <script src="/assets/vendor/object-fit-images/dist/ofi.min.js"></script>
 
                     <!-- Popper -->
-                    <script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+                    <script src="/assets/vendor/popper.js/dist/umd/popper.min.js"></script>
 
                     <!-- Bootstrap -->
-                    <script src="assets/vendor/tether/dist/js/tether.min.js"></script>
-                    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+                    <script src="/assets/vendor/tether/dist/js/tether.min.js"></script>
+                    <script src="/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 
                     <!-- Sticky Kit -->
-                    <script src="assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
+                    <script src="/assets/vendor/sticky-kit/dist/sticky-kit.min.js"></script>
 
                     <!-- Jarallax -->
-                    <script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
-                    <script src="assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
+                    <script src="/assets/vendor/jarallax/dist/jarallax.min.js"></script>
+                    <script src="/assets/vendor/jarallax/dist/jarallax-video.min.js"></script>
 
                     <!-- Isotope -->
-                    <script src="assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
+                    <script src="/assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
 
                     <!-- ImagesLoaded -->
-                    <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+                    <script src="/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
 
                     <!-- Lightgallery -->
-                    <script src="assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
-                    <script src="assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
-                    <script src="assets/vendor/lg-video/dist/lg-video.min.js"></script>
+                    <script src="/assets/vendor/lightgallery/dist/js/lightgallery.min.js"></script>
+                    <script src="/assets/vendor/lg-fullscreen/dist/lg-fullscreen.min.js"></script>
+                    <script src="/assets/vendor/lg-video/dist/lg-video.min.js"></script>
 
                     <!-- Swiper -->
-                    <script src="assets/vendor/swiper/dist/js/swiper.min.js"></script>
+                    <script src="/assets/vendor/swiper/dist/js/swiper.min.js"></script>
 
                     <!-- The Mimilism -->
-                    <script src="assets/js/mimilism.min.js"></script>
-                    <script src="assets/js/mimilism-init.js"></script>
+                    <script src="/assets/js/mimilism.min.js"></script>
+                    <script src="/assets/js/mimilism-init.js"></script>
                     <!-- END: Scripts -->
 
-                    <script src="assets/js/sam.js"></script>
+                    <script src="/assets/js/sam.js"></script>
 
         </body>
 

@@ -349,7 +349,7 @@ p {
 
 b,
 strong {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 label {
@@ -2723,9 +2723,9 @@ h6,
 }
 
 .dk-navbar .dk-navbar-burger {
-    display: none;
+    /* display: none; */
     width: 35px;
-    height: 24px;
+    height: 18px;
     cursor: pointer;
 }
 
@@ -2747,7 +2747,7 @@ h6,
 }
 
 .dk-navbar .dk-navbar-burger > span:nth-child(2) {
-    width: 16px;
+    /* width: 16px; */
     -webkit-transform: translateX(0);
         -ms-transform: translateX(0);
             transform: translateX(0);
@@ -2843,6 +2843,7 @@ h6,
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    align-items: center;
     -ms-flex-wrap: nowrap;
         flex-wrap: nowrap;
 }
@@ -2914,12 +2915,10 @@ h6,
 .dk-navbar .dk-nav-content .dk-nav-logo {
     min-width: auto;
     font-family: "Gelica";
-    font-weight: 600;
     font-size: 1.5rem;
     line-height: 1;
     color: #131313;
     text-decoration: none;
-    letter-spacing: .084em;
     -webkit-transition: color .2s ease;
     -o-transition: color .2s ease;
     transition: color .2s ease;
@@ -3286,7 +3285,7 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen .dk-nav li.dk-drop-item > a {
 
 div.dk-navbar-fullscreen .dk-nav li.dk-drop-item > a::after,
 div.dk-navbar-fullscreen.dk-navbar-fullscreen .dk-nav li.dk-drop-item > a::after {
-    content: "";
+    /* content: ""; */
     position: absolute;
     top: 50%;
     right: 0;
@@ -6506,4 +6505,16 @@ list-style-image: url("/assets/images/lbv-icon.png");
 
 .text-dec-none {
     text-decoration: none!important;
+}
+
+.text-yellow {
+    color: #f6a800!important;
+}
+
+.font-200 {
+    font-weight: 200!important;
+}
+
+.font-500 {
+    font-weight: 500!important;
 }

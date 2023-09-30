@@ -34,32 +34,32 @@
 		<link rel="stylesheet" href="https://use.typekit.net/eru1cwu.css">
 
 		<!-- Bootstrap -->
-		<link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/assets/vendor/bootstrap/dist/css/bootstrap.min.css">
 
 		<!-- Font Awesome -->
-		<link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/brands.css">
-		<link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/solid.css">
-		<link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/fontawesome.css">
+		<link rel="stylesheet" href="/assets/vendor/@fortawesome/fontawesome-free/css/brands.css">
+		<link rel="stylesheet" href="/assets/vendor/@fortawesome/fontawesome-free/css/solid.css">
+		<link rel="stylesheet" href="/assets/vendor/@fortawesome/fontawesome-free/css/fontawesome.css">
 
 		<!-- Pe icon 7 stroke -->
-		<link rel="stylesheet" href="assets/vendor/pixeden-stroke-7-icon/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
+		<link rel="stylesheet" href="/assets/vendor/pixeden-stroke-7-icon/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
 
 		<!-- Lightgallery -->
-		<link rel="stylesheet" type="text/css" href="assets/vendor/lightgallery/dist/css/lightgallery.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendor/lightgallery/dist/css/lightgallery.min.css">
 
 		<!-- Swiper -->
-		<link rel="stylesheet" type="text/css" href="assets/vendor/swiper/dist/css/swiper.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendor/swiper/dist/css/swiper.min.css">
 
 		<!-- Mimilism -->
 		<!-- <link rel="stylesheet" href="assets/css/mimilism.css"> -->
 
 		<!-- Custom Styles -->
-		<link rel="stylesheet" href="assets/css/custom.css">
+		<link rel="stylesheet" href="/assets/css/custom.css">
 		
 		<!-- END: Styles -->
 
 		<!-- jQuery -->
-		<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+		<script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
 		
 		<?php include_once('./inc/ga.php'); ?>         
 		

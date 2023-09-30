@@ -28,9 +28,10 @@
 		<!-- START: Styles -->
 
 		<!-- Google Fonts -->
-		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet"><!-- %7c -->
+		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet">%7c -->
+		<link rel="stylesheet" href="https://use.typekit.net/eru1cwu.css">
 
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
@@ -50,7 +51,7 @@
 		<link rel="stylesheet" type="text/css" href="assets/vendor/swiper/dist/css/swiper.min.css">
 
 		<!-- Mimilism -->
-		<link rel="stylesheet" href="assets/css/mimilism.css">
+		<!-- <link rel="stylesheet" href="assets/css/mimilism.css"> -->
 
 		<!-- Custom Styles -->
 		<link rel="stylesheet" href="assets/css/custom.css">

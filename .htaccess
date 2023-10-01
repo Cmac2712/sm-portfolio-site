@@ -664,5 +664,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 # New Relic
-
 php_value newrelic.appname "sammacintyre.com"

@@ -55,7 +55,9 @@
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
-                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <span class="dk-portfolio-item-overlay" 
+                                            style="background-color: rgba(236, 209, 133, .75)">
+                                        </span>
                                         <img src="/assets/images/Target-Beauty-AusMade-Home.jpg" alt="">
                                     </span>
 
@@ -77,11 +79,11 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="/assets/images/Target-Thermals-Home.png" alt="">
+                                        <img src="/assets/images/Hook-Cares-Home.jpg" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Target Woman <br/>Thermals</span>
+                                        <span class="h3 dk-portfolio-item-title">Hook Cares</span>
 
                                         <!--<span class="dk-portfolio-item-category">
             <span>Packaging</span>
@@ -95,14 +97,12 @@
 
                             </div>
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
-
-
                                 <a href="target-beauty-main-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
-                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(234, 187, 155, .85)"></span>
                                         <img src="/assets/images/Target-Beauty-Main-Home.png" alt="">
                                     </span>
 

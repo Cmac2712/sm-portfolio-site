@@ -9,20 +9,32 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6">
-							<p class="h5">Hi, I'm Sam. I'm a skilled, creative graphic designer with a passion for packaging, although my experience covers many areas of print and digital design. For me, packaging is a really exciting space to be in at the moment as tradtional materials and processes are challenged and there is a move towards more sustainable solutions. I also enjoy exploring branding projects and experimenting with motion graphics.
+							<!-- <p class="h5">Hi, I'm Sam. I'm a skilled, creative graphic designer with a passion for packaging, although my experience covers many areas of print and digital design. For me, packaging is a really exciting space to be in at the moment as tradtional materials and processes are challenged and there is a move towards more sustainable solutions. I also enjoy exploring branding projects and experimenting with motion graphics.
 							</p>
 							<p class="h5">Along with my creativity and design skill, I bring a commercial awareness and technical grounding to projects. This allows me to work successfully in multi-disciplinary teams with some of the biggest brands in the world.
 							</p>
 							<p class="h5">I'm currently based in Glasgow having recently returned from living in Melbourne.
+							</p> -->
+
+							<p class="h5">
+								I’m a freelance graphic designer based in Glasgow.  I’ve worked in many different areas of print and digital design, but I now specialise in crafting impactful, strategic branding and stand-out packaging.  
+							</p>
+								
+							<p class="h5">
+								With almost a decade of experience behind me, I’ve had the privilege of working with some incredible brands around the world, delivering projects for the likes of Disney, The Hershey Company and Target Australia to name a few.</p>
+							</p>
+
+							<p class="h5">
+								For me, packaging is a really exciting space to be in at the moment as traditional materials and processes are challenged and there is a move towards more sustainable solutions. When I don’t have my designer hat on, I’m a mum of two who loves to grab five minutes peace for a hot cup of tea.
 							</p>
 
 							<!--<a href="contact" class="link-decorated mt-10">get in touch</a>-->
 
-                            <a href="/assets/sam-macintyre-cv-22.pdf" class="db link-decorated fs-20 mt-20">Want to know more? Download my CV.</a>
+                  <a href="/assets/sam-macintyre-cv-22.pdf" class="db link-decorated fs-20 mt-20">Want to know more? Download my CV.</a>
 						</div>
-						<!--<div class="col-lg-3 pl-50 pb-50">
-                            <img class="dk-img" src="/assets/images/About-Me-1.png" alt></img>
-                        </div>-->
+						<div class="col-lg-3 pl-50 pb-50">
+								<img class="dk-img" src="/assets/images/About-Me-2.jpg" alt></img>
+						</div>
 					</div>
 				</div>
 			</div>

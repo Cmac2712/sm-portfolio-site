@@ -5,44 +5,19 @@
 
 	<?php include_once('./inc/nav.php'); ?>         
 
-    <div class="dk-box-4">
-        <div class="bg-image bg-image-parallax">
-            <img src="/assets/images/Disney-Kitchen-Folio1.png" class="jarallax-img" alt="">
-            <div style="background-color: rgba(32, 32, 32, .6);"></div>
-        </div>
-
+    <div class="dk-box-4 pt-16 pb-16">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-white">Disney Kitchen Toddler</h1>
-                    <p class="lead text-white mb-0">I was instrumental in the development of the toddler snacking range of the Disney Kitchen brand.  Establishing tone of voice and core values as well as designing packaging, supporting marketing materials and the website.</p>
+                    <h1 class="display-3 text-dark-2">Disney Kitchen Toddler</h1>
+                    <p class="lead text-dark mb-0">I was instrumental in the development of the toddler snacking range of the Disney Kitchen brand.  Establishing tone of voice and core values as well as designing packaging, supporting marketing materials and the website.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="dk-box-2">
-        <div class="container mnb-8">
-            <div class="row justify-content-between vertical-gap mnt-35">
-                <div class="col-12 col-lg-3">
-                    <ul class="dk-list">
-                        <li><strong>Client</strong><br>Disney / Lightbody Ventures</li>
-                        <li><strong>Date</strong><br>January 2018</li>
-                        <li><strong>Key Responsibilities</strong><br>Brand Development<br>Concept Visualisation<br>Packaging Design<br>Sales Support Material<br>Website Design<br>Photography<br>Licensor Approvals</li>
-                    </ul>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">The Disney Kitchen (DK) brand was rolled out across all Disney’s UK food products throughout 2018 as they repositioned themselves as a more health conscious option for parents.  The majority of DK products are co-branded with the brand trust for consumers coming from the co-brand.</p><p class="mb-0">As Lightbody Venture's range was solely Disney Kitcen, we had to consider the whole brand experience that Disney Kitchen could provide, creating the "Toddler Promise" and "Always Tasty" promise to build trust with parents and included more consumer friendly call outs on packaging.</p>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">For the packaging Disney specified the banner design and placement, and character art but otherwise I was given free reign to come up with a fresh new design route.  Inspired by the softer, watercolour feel of the character, I used a rough paper texture in the background and included natural elements like the wooden sign lockup.  This helped project the healthiness of the products but the colours still excited toddlers and parents alike.</p><p class="mb-0">I created ingredient illustrations, managed all product photography from taking the images to final editing, and took concepts to market research to validate the design.</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <div class="dk-box-2 pt-16 pt-16">
 
-    
-    <div class="dk-box-2 dk-padding-bot">
         <div class="container">
             <div class="row vertical-gap dk-gallery">
             
@@ -75,6 +50,26 @@
                 </div>
                 <div class="col-sm-6">
                     <a href="assets/images/Disney-Kitchen-Folio2.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio2.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="dk-box-2 pb-16 pt-0">
+        <div class="container mnb-8">
+            <div class="row justify-content-between vertical-gap mnt-35">
+                <div class="col-12 col-lg-3">
+                    <ul class="dk-list">
+                        <li><strong>Client</strong><br>Disney / Lightbody Ventures</li>
+                        <li><strong>Date</strong><br>January 2018</li>
+                        <li><strong>Key Responsibilities</strong><br>Brand Development<br>Concept Visualisation<br>Packaging Design<br>Sales Support Material<br>Website Design<br>Photography<br>Licensor Approvals</li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4">
+                    <p class="pb-20 mb-0">The Disney Kitchen (DK) brand was rolled out across all Disney’s UK food products throughout 2018 as they repositioned themselves as a more health conscious option for parents.  The majority of DK products are co-branded with the brand trust for consumers coming from the co-brand.</p><p class="mb-0">As Lightbody Venture's range was solely Disney Kitcen, we had to consider the whole brand experience that Disney Kitchen could provide, creating the "Toddler Promise" and "Always Tasty" promise to build trust with parents and included more consumer friendly call outs on packaging.</p>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4">
+                    <p class="pb-20 mb-0">For the packaging Disney specified the banner design and placement, and character art but otherwise I was given free reign to come up with a fresh new design route.  Inspired by the softer, watercolour feel of the character, I used a rough paper texture in the background and included natural elements like the wooden sign lockup.  This helped project the healthiness of the products but the colours still excited toddlers and parents alike.</p><p class="mb-0">I created ingredient illustrations, managed all product photography from taking the images to final editing, and took concepts to market research to validate the design.</p>
                 </div>
             </div>
         </div>

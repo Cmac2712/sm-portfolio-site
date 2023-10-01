@@ -5,41 +5,18 @@
         
 	<?php include_once('./inc/nav.php'); ?>         
 
-    <div class="dk-box-4">
-        <div class="bg-image bg-image-parallax">
-            <img src="/assets/images/Stacy-Hannah-Folio1.png" class="jarallax-img" alt="">
-            <div style="background-color: rgba(32, 32, 32, .6);"></div>
-        </div>
-
+    <div class="dk-box-4 pt-16 pb-16">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-white">Stacy Hannah Chocolate</h1>
-                    <p class="lead text-white mb-0">Branding & illustration for luxury Scottish chocolatier Stacy Hannah Chocolates.</p>
+                    <h1 class="display-3 text-dark-2">Stacy Hannah Chocolate</h1>
+                    <p class="lead text-dark mb-0">Branding & illustration for luxury Scottish chocolatier Stacy Hannah Chocolates.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="dk-box-2">
-        <div class="container mnb-8">
-            <div class="row justify-content-start vertical-gap mnt-35">
-                <div class="col-12 col-lg-3">
-                    <ul class="dk-list">
-                        <li><strong>Client</strong><br>Stacy Hannah Chocolate</li>
-                        <li><strong>Date</strong><br>August 2022</li>
-                        <li><strong>Key Responsibilities</strong><br>Brand Development<br>Logo Design<br>Illustration<br>Print Design</li>
-                    </ul>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                    <p class="pb-20 mb-0">Stacy Hannah Chocolate is a luxury Scottish chocolatier.  Her creations are as beautiful as they are delicious combining creativity with a curious palate, Stacy always produces mouth watering confections.</p>
-                    <p class="pb-20 mb-0">Having worked with Stacy in previous years, she came to me in 2022 looking for fresh branding and packaging to relaunch her business.  Now based in Stranraer, she wanted her branding to reflect her new coastal location as well as the beauty of her creations.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="dk-box-2 dk-padding-bot">
+    <div class="dk-box-2 pb-16 pt-16">
         <div class="container">
             <div class="row vertical-gap dk-gallery">
                 <div class="col-sm-6">
@@ -58,8 +35,32 @@
         </div>
     </div>
 
+    <div class="dk-box-2 pb-16 pt-0">
+        <div class="container mnb-8">
+            <div class="row justify-content-start vertical-gap mnt-35">
+                <div class="col-12 col-lg-3">
+                    <ul class="dk-list">
+                        <li><strong>Client</strong><br>Stacy Hannah Chocolate</li>
+                        <li><strong>Date</strong><br>August 2022</li>
+                        <li><strong>Key Responsibilities</strong><br>Brand Development<br>Logo Design<br>Illustration<br>Print Design</li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4">
+                    <p class="pb-20 mb-0">Stacy Hannah Chocolate is a luxury Scottish chocolatier.  Her creations are as beautiful as they are delicious combining creativity with a curious palate, Stacy always produces mouth watering confections.</p>
+                    <p class="pb-20 mb-0">Having worked with Stacy in previous years, she came to me in 2022 looking for fresh branding and packaging to relaunch her business.  Now based in Stranraer, she wanted her branding to reflect her new coastal location as well as the beauty of her creations.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    
+
+
     <?php include_once('./inc/pagination.php'); ?>
     
+
 <!-- START: Footer -->
 <footer class="dk-footer-copyright">
     <div class="container">

@@ -5,23 +5,37 @@
         
 	<?php include_once('./inc/nav.php'); ?>         
 
-    <div class="dk-box-4">
-        <div class="bg-image bg-image-parallax">
-            <img src="/assets/images/Reese's-Rounds-Folio1.png" class="jarallax-img" alt="">
-            <div style="background-color: rgba(32, 32, 32, .6);"></div>
-        </div>
-
+    <div class="dk-box-4 pt-16 pb-16">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-white">Reese's Rounds</h1>
-                    <p class="lead text-white mb-0">Lightbody Ventures brought the first real peanut butter biscuit to the UK with Reese's Rounds.  I designed the sub-brand logo, packaging and sales support material for the biscuits.</p>
+                    <h1 class="display-3 text-dark-2">Reese's Rounds</h1>
+                    <p class="lead text-dark mb-0">Lightbody Ventures brought the first real peanut butter biscuit to the UK with Reese's Rounds.  I designed the sub-brand logo, packaging and sales support material for the biscuits.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="dk-box-2">
+    <div class="dk-box-2 pb-16 pt-16">
+        <div class="container">
+            <div class="row vertical-gap dk-gallery">
+                <div class="col-sm-6">
+                    <a href="assets/images/Reese's-Rounds-Folio2.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio2.png" alt=""></a>
+                </div>
+                <div class="col-sm-6">
+                    <a href="assets/images/Reese's-Rounds-Folio3.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio3.png" alt=""></a>
+                </div>
+                <div class="col-sm-6">
+                    <a href="assets/images/Reese's-Rounds-Folio4.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio4.png" alt=""></a>
+                </div>
+                <div class="col-sm-6">
+                    <a href="assets/images/Reese's-Rounds-Folio5.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio5.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="dk-box-2 pb-16 pt-0">
         <div class="container mnb-8">
             <div class="row justify-content-between vertical-gap mnt-35">
                 <div class="col-12 col-lg-3">
@@ -41,38 +55,19 @@
         </div>
     </div>
 
-    <div class="dk-box-2 dk-padding-bot">
-        <div class="container">
-            <div class="row vertical-gap dk-gallery">
-                <div class="col-sm-6">
-                    <a href="assets/images/Reese's-Rounds-Folio2.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio2.png" alt=""></a>
-                </div>
-                <div class="col-sm-6">
-                    <a href="assets/images/Reese's-Rounds-Folio3.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio3.png" alt=""></a>
-                </div>
-                <div class="col-sm-6">
-                    <a href="assets/images/Reese's-Rounds-Folio4.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio4.png" alt=""></a>
-                </div>
-                <div class="col-sm-6">
-                    <a href="assets/images/Reese's-Rounds-Folio5.png" class="dk-gallery-item"><img src="/assets/images/Reese's-Rounds-Folio5.png" alt=""></a>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <?php include_once('./inc/pagination.php'); ?>
     
-<!-- START: Footer -->
-<footer class="dk-footer-copyright">
-    <div class="container">
-        <ul class="dk-social-links dk-social-links-dark text-center mb-13">
-            <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
-            <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
-            <li><a href="https://www.instagram.com/sammacintyre.design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
-        </ul>
-        <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?> </p>
-    </div>
-</footer>
+    <!-- START: Footer -->
+    <footer class="dk-footer-copyright">
+        <div class="container">
+            <ul class="dk-social-links dk-social-links-dark text-center mb-13">
+                <li><a href="mailto:hello@sammacintyre.com" class="dk-social-behance"><span class="fas fa-envelope"></span></a></li>
+                <li><a href="https://www.linkedin.com/in/sammacintyre/" class="dk-social-linkedin"><span class="fab fa-linkedin"></span></a></li>
+                <li><a href="https://www.instagram.com/sammacintyre.design/" class="dk-social-instagram"><span class="fab fa-instagram"></span></a></li>
+            </ul>
+            <p class="mb-0">&copy; Sam MacIntyre <?php echo date('Y'); ?> </p>
+        </div>
+    </footer>
 <!-- END: Footer -->
 
 

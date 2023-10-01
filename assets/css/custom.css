@@ -3179,7 +3179,8 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen {
     overflow-x: hidden;
     overflow-y: scroll;
     visibility: hidden;
-    background-color: #202020;
+    /* background-color: #202020; */
+    background-color: #f6a800;
     opacity: 0;
     -webkit-transition: visibility .3s ease, opacity .3s ease;
     -o-transition: visibility .3s ease, opacity .3s ease;
@@ -5142,7 +5143,8 @@ div.dk-navbar-fullscreen.dk-navbar-fullscreen.dk-open-fullscreen .dk-navbar-burg
 }
 
 .dk-box-4 {
-    padding: 235px 0;
+    /* padding: 235px 0; */
+    padding: 50px 0;
 }
 
 .dk-box-4.dk-padding-top {
@@ -6505,6 +6507,10 @@ list-style-image: url("/assets/images/lbv-icon.png");
 
 .text-dec-none {
     text-decoration: none!important;
+}
+
+.bg-target-beauty {
+    background-color: #e8cc87;
 }
 
 .text-yellow {

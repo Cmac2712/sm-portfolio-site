@@ -171,7 +171,7 @@
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="/assets/images/Stacy-Hannah-Home.png" alt="">
+                                        <img src="/assets/images/Stacy-Hannah-Home.jpg" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">

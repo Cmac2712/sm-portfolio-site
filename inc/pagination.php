@@ -4,14 +4,11 @@
 
     $pages = Array(
         '/target-beauty-ausmade-folio',
-        '/target-thermals-folio',
+        '/stacy-hannah-folio',
         '/target-beauty-main-folio',
-        '/target-maxx-socks-folio',
-        '/disney-kitchen-folio',
+        '/hook-cares-folio',
         '/reeses-rounds-folio',
-        '/hersheys-reeses-bakery-folio',
-        '/eat-me-folio',
-        '/stacy-hannah-folio'
+        '/disney-kitchen-folio',
     );
 
     function get_previous_page($current_url, $pages) {

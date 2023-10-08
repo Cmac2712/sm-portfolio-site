@@ -23,8 +23,10 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h1 class="display-3 text-dark-2 font-400">Target Beauty<br>Australian Made</h1>
-                        <p class="text-dark mb-0">Introducing a premium range of beauty packaging for Target Australia that celebrates native botanical ingredients.</p>
+                        <h1 class="display-3 text-dark-2 font-400">Hook Cares</h1>
+                        <p class="text-dark mb-0">
+                            Providing branding and marketing materials for a handmade crochet business with a spooky edge.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -34,25 +36,16 @@
             <div class="container">
                 <div class="row vertical-gap dk-gallery">
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio2.jpg" class="dk-gallery-item">
-                            <img src="assets/images/Target-Beauty-AusMade-Folio2.jpg" alt="">
+                        <a href="assets/images/Hook-Cares-Folio1.jpg" class="dk-gallery-item">
+                            <img src="assets/images/Hook-Cares-Folio1.jpg" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio4.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio4.jpg" alt=""></a>
+                        <a href="assets/images/Hook-Cares-Folio2.jpg" class="dk-gallery-item">
+                            <img src="assets/images/Hook-Cares-Folio2.jpg" alt="">
+                        </a>
                     </div>
-                    <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio6.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio6.jpg" alt=""></a>
-                    </div>
-                    <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio3.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio3.jpg" alt=""></a>
-                    </div>
-                    <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio7.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio7.jpg" alt=""></a>
-                    </div>
-                    <div class="col-sm-6">
-                        <a href="assets/images/Target-Beauty-AusMade-Folio5.jpg" class="dk-gallery-item"><img src="/assets/images/Target-Beauty-AusMade-Folio5.jpg" alt=""></a>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -62,18 +55,24 @@
                 <div class="row justify-content-between vertical-gap mnt-35">
                     <div class="col-12 col-lg-3">
                         <ul class="dk-list">
-                            <li><strong>Client</strong><br>Target</li>
-                            <li><strong>Date</strong><br>2020</li>
-                            <li><strong>Key Responsibilities</strong><br>Concept Development<br>Colour Palette<br>Iconography<br>Style Guide Creation<br>Template Design<br>Art Direction & Artwork Approvals<br>Project Management & Stakeholder Liaison</li>
+                            <li><strong>Client</strong><br>Hook Cares Crochet</li>
+                            <li><strong>Date</strong><br>October 2022</li>
+                            <li>
+                                <strong>Key Responsibilities</strong><br>
+                                Brand Development<br>
+                                Logo Design<br>
+                                Illustration<br>
+                                Print Design<br>
+                            </li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
-                        <p class="pb-20 mb-0">Target wanted to introduce a premium extension to their own brand beauty range with a focus on Australian made product and native botanical ingredients. The packaging needed to be elevated but still feel inkeeping with the main range.</p>
-                        <p class="mb-0">As Packaging Graphic Designer for Beauty, I worked closely with the Lead Packaging Project Designer and Creative Design Manager to identify areas of elevation. The final design included a new colour palette, custom iconography and a hand-drawn botanical illustration collectively signifying the Australian natives while remaining generic enough to be used across a range of ingredients as the range grows.</p>
+                        <p class="pb-20 mb-0">Hook Cares Crochet is a small handmade crochet business specialising in alternative gifts and horror amigurumi.</p>
+                        <p class="mb-0">They needed branding that resonated with their target market to boost sales in local boutiques and at events such as The Gothic Market in Glasgow.  Drawing inspiration from the likes of American Horror Story and The Nightmare Before Christmas I created a wordmark logo and accompanying graphics that are clean and elegant with a spooky edge.</p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
-                        <p class="pb-20 mb-0">I worked on finalising the new colour palette, and created a custom icon set highlighting key attributes of the range. I was responsible for finalising the design across various pack formats and creating templates for local suppliers to work with and assisted with final artwork approvals.</p>
-                        <p class="mb-0">Packaging for any future products in the range would be designed by local suppliers for Target so following the completion of the initial range, I built out the packaging style guide to aid this process.</p>
+                        <p class="pb-20 mb-0"></p>
+                        <p class="mb-0"></p>
                     </div>
                 </div>
             </div>

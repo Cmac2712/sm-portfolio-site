@@ -9,14 +9,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-dark-2">Reese's Rounds</h1>
-                    <p class="lead text-dark mb-0">Lightbody Ventures brought the first real peanut butter biscuit to the UK with Reese's Rounds.  I designed the sub-brand logo, packaging and sales support material for the biscuits.</p>
+                    <h1 class="display-3 text-dark-2 font-400">Reese's Rounds</h1>
+                    <p class="text-dark mb-0">Packaging and sales support material for the UK's first real peanut butter biscuit, Reese's Rounds.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="dk-box-2 pb-16 pt-16">
+    <div class="dk-box-2 pb-16 pt-0">
         <div class="container">
             <div class="row vertical-gap dk-gallery">
                 <div class="col-sm-6">

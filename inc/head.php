@@ -27,11 +27,17 @@
 
 		<!-- START: Styles -->
 
-		<!-- Google Fonts -->
-		<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;600&display=swap" rel="stylesheet">%7c -->
+		<!--
+		============
+			FONTS 
+		============ 
+		-->
+		<!-- Typekit -->
 		<link rel="stylesheet" href="https://use.typekit.net/eru1cwu.css">
+		<!-- Google -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Poppins:ital@0;1&display=swap" rel="stylesheet">
 
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="/assets/vendor/bootstrap/dist/css/bootstrap.min.css">

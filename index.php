@@ -38,7 +38,7 @@
                                 Whether you’re an agency seeking support for your upcoming project or a business looking for a creative boost for your branding and packaging, get in touch to 
                                 see how I can help.
                                 </p> -->
-                                <a href="contact" class="link-decorated mt-1 fs-24 font-500">Let's work together!</a> 
+                                <a href="contact" class="link-decorated mt-1 fs-24 font-500 font-gelica">Let's work together!</a> 
                             </div>
                         </div>
                     </div>
@@ -48,6 +48,7 @@
                     <div class="container">
                         <div class="row align-items-start vertical-gap dk-isotope-grid">
 
+                            <!-- TARGET BEAUTY AUSMADE -->
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
 
                                 <a href="target-beauty-ausmade-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
@@ -64,38 +65,33 @@
                                     <span class="dk-portfolio-item-info">
                                         <span class="h3 dk-portfolio-item-title">Target Beauty<br>Australian Made</span>
                                     </span>
-
                                 </a>
-
-
-
                             </div>
-                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockups">
 
-                                <a href="target-thermals-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                            <!-- STACEY HANNAH -->
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
+                                <!-- NINE -->
+                                <a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
-                                        <!-- <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span> -->
-                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
-                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="/assets/images/Hook-Cares-Home.jpg" alt="">
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(105, 184, 197, .85)"></span>
+                                        <img src="/assets/images/Stacy-Hannah-Home.jpg" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Hook Cares</span>
+                                        <span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
 
                                         <!--<span class="dk-portfolio-item-category">
-            <span>Packaging</span>
-        </span>-->
+														<span>Design</span>
+												</span>-->
 
                                     </span>
-
                                 </a>
-
-
-
                             </div>
+
+                            <!-- TARGET BEUATY MAIN -->
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item design">
                                 <a href="target-beauty-main-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
@@ -108,38 +104,32 @@
 
                                     <span class="dk-portfolio-item-info">
                                         <span class="h3 dk-portfolio-item-title">Target Beauty</span>
-
-                                        <!--<span class="dk-portfolio-item-category">
-            <span>Packaging</span>
-        </span>-->
-
                                     </span>
 
                                 </a>
                             </div>
 
-                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
+                            <!-- HOOK CARES -->
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockups">
 
-                                <a href="disney-kitchen-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+                                <a href="hook-cares-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
+                                        <!-- <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(160% + 30px)"></span> -->
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
 
                                         <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="/assets/images/Disney-Kitchen-Home.png" alt="">
+                                        <img src="/assets/images/Hook-Cares-Home.jpg" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">
-                                            Disney Kitchen
-                                        </span>
+                                        <span class="h3 dk-portfolio-item-title">Hook Cares</span>
                                     </span>
-
                                 </a>
 
-
-
                             </div>
+
+                            <!-- REESES ROUNDS -->
                             <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item photography">
                                 <!-- FIVE -->
                                 <a href="reeses-rounds-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
@@ -147,7 +137,8 @@
 
                                         <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
 
-                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(234, 187, 155, .85)">
+                                    </span>
                                         <img src="/assets/images/Reese's-Rounds-Home.jpg" alt="">
                                     </span>
 
@@ -162,27 +153,28 @@
 
                                 </a>
                             </div>
-                            
-                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item mockup">
-                                <!-- NINE -->
-                                <a href="stacy-hannah-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
+
+                            <!-- DISNEY KITCHEN -->
+                            <div class="col-12 col-md-6 col-lg-4 dk-isotope-grid-item branding">
+                                <a href="disney-kitchen-folio" class="dk-portfolio-item dk-portfolio-item-style-1 dk-portfolio-item-center dk-portfolio-item-dark">
                                     <span class="dk-portfolio-item-image">
 
-                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="80%"></span>
+                                        <span class="dk-portfolio-item-image-size" data-portfolio-size="calc(80%)"></span>
 
-                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(32, 32, 32, .85)"></span>
-                                        <img src="/assets/images/Stacy-Hannah-Home.jpg" alt="">
+                                        <span class="dk-portfolio-item-overlay" style="background-color: rgba(181, 186, 137, .85)"></span>
+                                        <img src="/assets/images/Disney-Kitchen-Home.jpg" alt="">
                                     </span>
 
                                     <span class="dk-portfolio-item-info">
-                                        <span class="h3 dk-portfolio-item-title">Stacy Hannah Chocolate</span>
-
-                                        <!--<span class="dk-portfolio-item-category">
-														<span>Design</span>
-												</span>-->
-
+                                        <span class="h3 dk-portfolio-item-title">
+                                            Disney Kitchen
+                                        </span>
                                     </span>
+
                                 </a>
+
+
+
                             </div>
                         </div>
                         <div class="dk-gap-1"></div>
@@ -395,7 +387,9 @@
 
                         <div class="container">
                             <div class="row justify-content-center text-center">
-                                <a href="#" class="link-decorated mt-50 mb-50" id="js-backtotop">Back to the Top &uarr;</a>
+                                <a href="#" class="link-decorated mt-50 mb-50" id="js-backtotop">Back to the Top 
+                                    <span class="text-yellow">&uarr;</span>
+                                </a>
 
                             </div>
                         </div>

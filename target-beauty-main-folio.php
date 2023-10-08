@@ -23,14 +23,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-dark-2">Target Beauty<br>Main Range</h1>
-                    <p class="lead text-dark mb-0">Rolling out new packaging across the whole of the Target Australia's Beauty Department.</p>
+                    <h1 class="display-3 text-dark-2 font-400">Target Beauty<br>Main Range</h1>
+                    <p class="text-dark mb-0">Rolling out new packaging across the whole of the Target Australia's Beauty Department.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="dk-box-2 pb-16 pt-16">
+    <div class="dk-box-2 pb-16 pt-0">
         <div class="container">
             <div class="row vertical-gap dk-gallery">
                 <div class="col-sm-6">
@@ -55,7 +55,7 @@
         </div>
     </div>
 
-    <div class="dk-box-2 pb-16 pt-0">
+    <div class="dk-box-2 pb-16 pt-16">
         <div class="container">
             <div class="row justify-content-between vertical-gap mnt-35">
                 <div class="col-12 col-lg-3">

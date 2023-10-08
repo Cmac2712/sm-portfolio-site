@@ -19,10 +19,6 @@ $page_name = basename($_SERVER['PHP_SELF']);
                     
                     <a href="/" class="dk-nav-logo font-500">Sam&nbsp;MacIntyre</a>
                     
-                    
-                    
-            
-                    
                 </div>
             </div>
         </nav>
@@ -52,13 +48,11 @@ $page_name = basename($_SERVER['PHP_SELF']);
                     </a>
                 </li>  
                 <!-- LINK FOUR -->
-                <li class="dk-drop-item">
+                <li class="dk-drop-item d-flex justify-content-center">
                     <a href="https://www.linkedin.com/in/sammacintyre/">
                         <span class="fab fa-linkedin"></span>
                     </a>
-                </li>
                  <!-- LINK FIVE -->
-                <li class="dk-drop-item">
                     <a href="https://www.instagram.com/sammacintyre.design/">
                         <span class="fab fa-instagram"></span>
                     </a>

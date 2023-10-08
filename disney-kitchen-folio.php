@@ -9,14 +9,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h1 class="display-3 text-dark-2">Disney Kitchen Toddler</h1>
-                    <p class="lead text-dark mb-0">I was instrumental in the development of the toddler snacking range of the Disney Kitchen brand.  Establishing tone of voice and core values as well as designing packaging, supporting marketing materials and the website.</p>
+                    <h1 class="display-3 text-dark-2 font-400">Disney Kitchen Toddler</h1>
+                    <p class="text-dark mb-0">A new packaging direction for Disney branded toddler snacks.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="dk-box-2 pt-16 pt-16">
+    <div class="dk-box-2 pt-16 pt-0">
 
         <div class="container">
             <div class="row vertical-gap dk-gallery">
@@ -46,7 +46,7 @@
                     <a href="assets/images/Disney-Kitchen-Folio3.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio3.png" alt=""></a>
                 </div>
                 <div class="col-sm-6">
-                    <a href="assets/images/Disney-Kitchen-Folio4.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio4.png" alt=""></a>
+                    <a href="assets/images/Disney-Kitchen-Folio4.jpg" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio4.jpg" alt=""></a>
                 </div>
                 <div class="col-sm-6">
                     <a href="assets/images/Disney-Kitchen-Folio2.png" class="dk-gallery-item"><img src="/assets/images/Disney-Kitchen-Folio2.png" alt=""></a>

@@ -46,6 +46,16 @@
                         </a>
                     </div>
 
+                    <div class="col-sm-6">
+                        <a href="assets/images/Hook-Cares-Folio3.jpg" class="dk-gallery-item">
+                            <img src="assets/images/Hook-Cares-Folio3.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6">
+                        <a href="assets/images/Hook-Cares-Folio4.jpg" class="dk-gallery-item">
+                            <img src="assets/images/Hook-Cares-Folio4.jpg" alt="">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

@@ -6572,3 +6572,15 @@ list-style-image: url("/assets/images/lbv-icon.png");
 .max-w-400 {
     max-width: 400px!important;
 }
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+.w-full {
+    width: 100%!important;
+}
+
+.h-full {
+    height: 100%!important;
+}

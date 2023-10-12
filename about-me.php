@@ -26,8 +26,9 @@
 				<div class="container">
 
 					<div class="d-flex pb-45" style="gap: 12px">
-						<div style="width: 400px; height: 400px; background: #999999"></div>
-						<div style="width: 400px; height: 400px; background: #999999"></div>
+						<div style="width: 400px; height: 400px; background: #999999">
+							<img class="w-full h-full object-fit-cover" src="/assets/images/About-Me.jpg" alt></img>
+						</div>
 					</div>
 					<div class="row">
 						<div class="col-lg-6">
